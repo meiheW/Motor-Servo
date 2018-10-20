@@ -1,0 +1,8 @@
+系统信息获取WEB显示
+
+1、拷贝www下的内容到ARM板卡下 httproot目录，查看/etc/boa/boa.conf 下的目录中的DocumentRoot路径
+2、开发好的platforminfo文件拷贝到 目录下cgi-bin下面
+3、输入http://192.168.0.15/cgi-bin/platforminfo 就可以访问网址
+
+
+4、按照 platforminfo.c里面的内容添加信息
