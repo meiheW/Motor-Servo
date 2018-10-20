@@ -42,5 +42,5 @@
 ```
 
 
-## References ##
+## References
 <https://github.com/hengzZ/motor-servo> 
