@@ -1,4 +1,11 @@
 # Motor-Servo
+
+
+## About
+
+基于Arm-Linux实现伺服电机伺服驱动，主要硬件包括arm板、伺服电机、电机控制器、编码器、激光控制板等。
+
+
 ## Catalogue
 
 
