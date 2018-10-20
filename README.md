@@ -21,7 +21,7 @@
 | ---- platforminfo.c                // arm平台信息
 | ---- www                           // 提供网页访问方式
 | Manuals
-| ---- KruskalMST                    // arm、控制器以及激光控制板的文档
+| ---- manual.md                     // arm、控制器以及激光控制板的文档
 | Doucuments
 | ---- Demo                          // 激光控制板示例程序
 | ---- Instruction                   // 安装调试电机文档
