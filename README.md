@@ -2,6 +2,7 @@
     <h1>
     	Motor-Servo
 	</h1>
+	<img src="arm.jpg" width="150px">
 </div>
 
 ## About
