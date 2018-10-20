@@ -1,5 +1,8 @@
-# Motor-Servo
-
+<div align="center">
+    <h1>
+    	Motor-Servo
+	</h1>
+</div>
 
 ## About
 
