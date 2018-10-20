@@ -1,0 +1,1111 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABS_POSITION_MODE	alpha_motion_control.h	23;"	d
+ACCO_ad	alpha_setting.h	258;"	d
+ACCO_fc	alpha_setting.h	149;"	d
+AD0_ad	alpha_setting.h	293;"	d
+AD0_fc	alpha_setting.h	184;"	d
+AD1_ad	alpha_setting.h	294;"	d
+AD1_fc	alpha_setting.h	185;"	d
+AD2_ad	alpha_setting.h	295;"	d
+AD2_fc	alpha_setting.h	186;"	d
+AD3_ad	alpha_setting.h	296;"	d
+AD3_fc	alpha_setting.h	187;"	d
+ADDR_ERROR_ad	alpha_setting.h	321;"	d
+ADDR_ERROR_fc	alpha_setting.h	212;"	d
+ALPHA_MOTION_CONTROL_H	alpha_motion_control.h	13;"	d
+ALPHA_SETTING_H	alpha_setting.h	3;"	d
+ALRM_CODE0_ad	alpha_setting.h	322;"	d
+ALRM_CODE0_fc	alpha_setting.h	213;"	d
+ALRM_CODE1_ad	alpha_setting.h	323;"	d
+ALRM_CODE1_fc	alpha_setting.h	214;"	d
+ALRM_CODE2_ad	alpha_setting.h	324;"	d
+ALRM_CODE2_fc	alpha_setting.h	215;"	d
+ALRM_CODE3_ad	alpha_setting.h	325;"	d
+ALRM_CODE3_fc	alpha_setting.h	216;"	d
+ALRM_CODE4_ad	alpha_setting.h	326;"	d
+ALRM_CODE4_fc	alpha_setting.h	217;"	d
+ALRM_DECT_A_ad	alpha_setting.h	306;"	d
+ALRM_DECT_A_fc	alpha_setting.h	197;"	d
+ALRM_DETC_B_ad	alpha_setting.h	342;"	d
+ALRM_DETC_B_fc	alpha_setting.h	233;"	d
+AM335X_SETTING_H	am335x_setting.h	2;"	d
+ANTI_FREQ_SLCT0_ad	alpha_setting.h	291;"	d
+ANTI_FREQ_SLCT0_fc	alpha_setting.h	182;"	d
+ANTI_FREQ_SLCT1_ad	alpha_setting.h	292;"	d
+ANTI_FREQ_SLCT1_fc	alpha_setting.h	183;"	d
+ASCIILINESZ	iniparser.c	15;"	d	file:
+BATRY_WRNING_ad	alpha_setting.h	331;"	d
+BATRY_WRNING_fc	alpha_setting.h	222;"	d
+BITS_BUFFER_SIZE	alpha_setting.h	361;"	d
+BRDCST_CANCEL_ad	alpha_setting.h	298;"	d
+BRDCST_CANCEL_fc	alpha_setting.h	189;"	d
+BRK_TIMING_ad	alpha_setting.h	305;"	d
+BRK_TIMING_fc	alpha_setting.h	196;"	d
+BUFFSIZE	motor-term/motor_term.c	36;"	d	file:
+B_BLACK	elog.c	78;"	d	file:
+B_BLUE	elog.c	82;"	d	file:
+B_CYAN	elog.c	84;"	d	file:
+B_GREEN	elog.c	80;"	d	file:
+B_MAGENTA	elog.c	83;"	d	file:
+B_NULL	elog.c	77;"	d	file:
+B_RED	elog.c	79;"	d	file:
+B_WHITE	elog.c	85;"	d	file:
+B_YELLOW	elog.c	81;"	d	file:
+CC	Makefile	/^CC=arm-linux-gnueabihf-gcc$/;"	m
+CC	motor-term/Makefile	/^CC = gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS=-g -Wall -std=gnu99 \\$/;"	m
+CFLAGS	motor-term/Makefile	/^CFLAGS = -g -Wall$/;"	m
+CMDPARSER_H	cmdparser.h	2;"	d
+CMD_PST_CMPL_ad	alpha_setting.h	346;"	d
+CMD_PST_CMPL_fc	alpha_setting.h	237;"	d
+CMD_PULSE_INHIBIT_ad	alpha_setting.h	267;"	d
+CMD_PULSE_INHIBIT_fc	alpha_setting.h	158;"	d
+CMD_PULSE_RTO1_ad	alpha_setting.h	268;"	d
+CMD_PULSE_RTO1_fc	alpha_setting.h	159;"	d
+COM_PULSE_RTO2_ad	alpha_setting.h	269;"	d
+COM_PULSE_RTO2_fc	alpha_setting.h	160;"	d
+CONT10_ad	alpha_setting.h	101;"	d
+CONT11_ad	alpha_setting.h	102;"	d
+CONT12_ad	alpha_setting.h	103;"	d
+CONT13_ad	alpha_setting.h	104;"	d
+CONT14_ad	alpha_setting.h	105;"	d
+CONT15_ad	alpha_setting.h	106;"	d
+CONT16_ad	alpha_setting.h	107;"	d
+CONT17_ad	alpha_setting.h	108;"	d
+CONT18_ad	alpha_setting.h	109;"	d
+CONT19_ad	alpha_setting.h	110;"	d
+CONT1_ad	alpha_setting.h	94;"	d
+CONT20_ad	alpha_setting.h	111;"	d
+CONT21_ad	alpha_setting.h	112;"	d
+CONT22_ad	alpha_setting.h	113;"	d
+CONT23_ad	alpha_setting.h	114;"	d
+CONT24_ad	alpha_setting.h	115;"	d
+CONT2_ad	alpha_setting.h	95;"	d
+CONT3_ad	alpha_setting.h	96;"	d
+CONT4_ad	alpha_setting.h	97;"	d
+CONT5_ad	alpha_setting.h	98;"	d
+CONT9_ad	alpha_setting.h	100;"	d
+CONT_A_THROUGH_ad	alpha_setting.h	350;"	d
+CONT_A_THROUGH_fc	alpha_setting.h	241;"	d
+CONT_B_THROUGH_ad	alpha_setting.h	351;"	d
+CONT_B_THROUGH_fc	alpha_setting.h	242;"	d
+CONT_C_THROUGH_ad	alpha_setting.h	352;"	d
+CONT_C_THROUGH_fc	alpha_setting.h	243;"	d
+CONT_D_THROUGH_ad	alpha_setting.h	353;"	d
+CONT_D_THROUGH_fc	alpha_setting.h	244;"	d
+CONT_E_THROUGH_ad	alpha_setting.h	354;"	d
+CONT_E_THROUGH_fc	alpha_setting.h	245;"	d
+CRC_check	am335x_setting.c	/^unsigned char CRC_check(unsigned char *buf, int n)$/;"	f
+CSI_END	elog.c	66;"	d	file:
+CSI_START	elog.c	65;"	d	file:
+CTRL_MOD_SLCT_ad	alpha_setting.h	275;"	d
+CTRL_MOD_SLCT_fc	alpha_setting.h	166;"	d
+CYC_END_DETC_ad	alpha_setting.h	311;"	d
+CYC_END_DETC_fc	alpha_setting.h	202;"	d
+CtrlStatus	global_setting.h	/^}CtrlStatus;$/;"	t	typeref:enum:__anon8
+DATA_ERROR_ad	alpha_setting.h	320;"	d
+DATA_ERROR_fc	alpha_setting.h	211;"	d
+DEPS	Makefile	/^DEPS=$(wildcard .\/*.h)$/;"	m
+DEVIATION_CLR_ad	alpha_setting.h	285;"	d
+DEVIATION_CLR_fc	alpha_setting.h	176;"	d
+DICTMINSZ	dictionary.c	27;"	d	file:
+DICT_INVALID_KEY	dictionary.c	30;"	d	file:
+EDT_PERMISSION_ad	alpha_setting.h	290;"	d
+EDT_PERMISSION_fc	alpha_setting.h	181;"	d
+ED_PRMSION_RSP_ad	alpha_setting.h	319;"	d
+ED_PRMSION_RSP_fc	alpha_setting.h	210;"	d
+ELCT_GEAR_NUM_SEL0_ad	alpha_setting.h	265;"	d
+ELCT_GEAR_NUM_SEL0_fc	alpha_setting.h	156;"	d
+ELCT_GEAR_NUM_SEL1_ad	alpha_setting.h	266;"	d
+ELCT_GEAR_NUM_SEL1_fc	alpha_setting.h	157;"	d
+ELOG_ASSERT	elog.h	57;"	d
+ELOG_ASSERT	elog.h	68;"	d
+ELOG_ASSERT_ENABLE	elog_cfg.h	37;"	d
+ELOG_ASYNC_OUTPUT_BUF_SIZE	elog_cfg.h	53;"	d
+ELOG_ASYNC_OUTPUT_PTHREAD_PRIORITY	elog_async.c	50;"	d	file:
+ELOG_ASYNC_OUTPUT_PTHREAD_STACK_SIZE	elog_async.c	44;"	d	file:
+ELOG_ASYNC_OUTPUT_PTHREAD_STACK_SIZE	elog_async.c	46;"	d	file:
+ELOG_ASYNC_OUTPUT_USING_PTHREAD	elog_cfg.h	57;"	d
+ELOG_ASYNC_POLL_GET_LOG_BUF_SIZE	elog_async.c	54;"	d	file:
+ELOG_COLOR_ASSERT	elog.c	93;"	d	file:
+ELOG_COLOR_DEBUG	elog.c	105;"	d	file:
+ELOG_COLOR_ENABLE	elog_cfg.h	49;"	d
+ELOG_COLOR_ERROR	elog.c	96;"	d	file:
+ELOG_COLOR_INFO	elog.c	102;"	d	file:
+ELOG_COLOR_VERBOSE	elog.c	108;"	d	file:
+ELOG_COLOR_WARN	elog.c	99;"	d	file:
+ELOG_FILTER_KW_MAX_LEN	elog_cfg.h	45;"	d
+ELOG_FILTER_TAG_MAX_LEN	elog_cfg.h	43;"	d
+ELOG_FMT_ALL	elog.h	135;"	d
+ELOG_FMT_DIR	elog.h	/^    ELOG_FMT_DIR    = 1 << 5, \/**< file directory and name *\/$/;"	e	enum:__anon1
+ELOG_FMT_FUNC	elog.h	/^    ELOG_FMT_FUNC   = 1 << 6, \/**< function name *\/$/;"	e	enum:__anon1
+ELOG_FMT_LINE	elog.h	/^    ELOG_FMT_LINE   = 1 << 7, \/**< line number *\/$/;"	e	enum:__anon1
+ELOG_FMT_LVL	elog.h	/^    ELOG_FMT_LVL    = 1 << 0, \/**< level *\/$/;"	e	enum:__anon1
+ELOG_FMT_P_INFO	elog.h	/^    ELOG_FMT_P_INFO = 1 << 3, \/**< process info *\/$/;"	e	enum:__anon1
+ELOG_FMT_TAG	elog.h	/^    ELOG_FMT_TAG    = 1 << 1, \/**< tag *\/$/;"	e	enum:__anon1
+ELOG_FMT_TIME	elog.h	/^    ELOG_FMT_TIME   = 1 << 2, \/**< current time *\/$/;"	e	enum:__anon1
+ELOG_FMT_T_INFO	elog.h	/^    ELOG_FMT_T_INFO = 1 << 4, \/**< thread info *\/$/;"	e	enum:__anon1
+ELOG_LINE_BUF_SIZE	elog_cfg.h	39;"	d
+ELOG_LINE_NUM_MAX_LEN	elog_cfg.h	41;"	d
+ELOG_LVL_ASSERT	elog.h	42;"	d
+ELOG_LVL_DEBUG	elog.h	46;"	d
+ELOG_LVL_ERROR	elog.h	43;"	d
+ELOG_LVL_INFO	elog.h	45;"	d
+ELOG_LVL_TOTAL_NUM	elog.h	50;"	d
+ELOG_LVL_VERBOSE	elog.h	47;"	d
+ELOG_LVL_WARN	elog.h	44;"	d
+ELOG_NEWLINE_SIGN	elog_cfg.h	47;"	d
+ELOG_NO_ERR	elog.h	/^    ELOG_NO_ERR,$/;"	e	enum:__anon4
+ELOG_OUTPUT_ENABLE	elog_cfg.h	33;"	d
+ELOG_OUTPUT_LVL	elog_cfg.h	35;"	d
+ELOG_SW_VERSION	elog.h	53;"	d
+EMBBADCRC	modbus.h	115;"	d
+EMBBADDATA	modbus.h	116;"	d
+EMBBADEXC	modbus.h	117;"	d
+EMBMDATA	modbus.h	119;"	d
+EMBUNKEXC	modbus.h	118;"	d
+EMBXACK	modbus.h	107;"	d
+EMBXGPATH	modbus.h	111;"	d
+EMBXGTAR	modbus.h	112;"	d
+EMBXILADD	modbus.h	104;"	d
+EMBXILFUN	modbus.h	103;"	d
+EMBXILVAL	modbus.h	105;"	d
+EMBXMEMPAR	modbus.h	110;"	d
+EMBXNACK	modbus.h	109;"	d
+EMBXSBUSY	modbus.h	108;"	d
+EMBXSFAIL	modbus.h	106;"	d
+EMG_ad	alpha_setting.h	256;"	d
+EMG_fc	alpha_setting.h	147;"	d
+ENCODER_ZERO_POSITION	am335x_setting.h	11;"	d
+ENOTSUP	modbus-rtu-private.h	41;"	d
+ERROOR	global_setting.h	/^    ERROOR,$/;"	e	enum:__anon8
+EXTR_REGN_RESIST_OH_ad	alpha_setting.h	273;"	d
+EXTR_REGN_RESIST_OH_fc	alpha_setting.h	164;"	d
+E_PULSE_PER_CIRCLE	am335x_setting.h	13;"	d
+EasyLogger	elog.h	/^}EasyLogger, *EasyLogger_t;$/;"	t	typeref:struct:__anon3
+EasyLogger_t	elog.h	/^}EasyLogger, *EasyLogger_t;$/;"	t	typeref:struct:__anon3
+ElogErrCode	elog.h	/^} ElogErrCode;$/;"	t	typeref:enum:__anon4
+ElogFilter	elog.h	/^} ElogFilter, *ElogFilter_t;$/;"	t	typeref:struct:__anon2
+ElogFilter_t	elog.h	/^} ElogFilter, *ElogFilter_t;$/;"	t	typeref:struct:__anon2
+ElogFmtIndex	elog.h	/^} ElogFmtIndex;$/;"	t	typeref:enum:__anon1
+FALSE	modbus.h	48;"	d
+FINISH	global_setting.h	/^    FINISH,$/;"	e	enum:__anon8
+FRC_STP_DETC_ad	alpha_setting.h	330;"	d
+FRC_STP_DETC_fc	alpha_setting.h	221;"	d
+FREE	global_setting.h	/^    FREE,$/;"	e	enum:__anon8
+FREE_RUN_ad	alpha_setting.h	289;"	d
+FREE_RUN_fc	alpha_setting.h	180;"	d
+FWD_ad	alpha_setting.h	249;"	d
+FWD_fc	alpha_setting.h	140;"	d
+F_BLACK	elog.c	68;"	d	file:
+F_BLUE	elog.c	72;"	d	file:
+F_CYAN	elog.c	74;"	d	file:
+F_GREEN	elog.c	70;"	d	file:
+F_MAGENTA	elog.c	73;"	d	file:
+F_RED	elog.c	69;"	d	file:
+F_WHITE	elog.c	75;"	d	file:
+F_YELLOW	elog.c	71;"	d	file:
+GACCE_TIME	global_setting.h	/^    GACCE_TIME,$/;"	e	enum:__anon5
+GAIN_SWITCH_ad	alpha_setting.h	260;"	d
+GAIN_SWITCH_fc	alpha_setting.h	151;"	d
+GALARM_RST	global_setting.h	/^    GALARM_RST,$/;"	e	enum:__anon5
+GCHECK	global_setting.h	/^    GCHECK,$/;"	e	enum:__anon5
+GDECE_TIME	global_setting.h	/^    GDECE_TIME,$/;"	e	enum:__anon5
+GEMG	global_setting.h	/^    GEMG,$/;"	e	enum:__anon5
+GERROR_MSG	global_setting.h	/^    GERROR_MSG,$/;"	e	enum:__anon5
+GFLAGS	global_setting.h	/^} GFLAGS;$/;"	t	typeref:enum:__anon5
+GLEFT	global_setting.h	/^    GLEFT,$/;"	e	enum:__anon5
+GLOBAL_SETTING_H	global_setting.h	2;"	d
+GMAX_POINT	global_setting.h	/^    GMAX_POINT,$/;"	e	enum:__anon5
+GNONE	global_setting.h	/^    GNONE=0,$/;"	e	enum:__anon5
+GPOINT	global_setting.h	/^    GPOINT,$/;"	e	enum:__anon5
+GPST_CANCEL	global_setting.h	/^    GPST_CANCEL,$/;"	e	enum:__anon5
+GRIGHT	global_setting.h	/^    GRIGHT,$/;"	e	enum:__anon5
+GSPEED	global_setting.h	/^    GSPEED,$/;"	e	enum:__anon5
+GSPEEDMSG	global_setting.h	/^    GSPEEDMSG,$/;"	e	enum:__anon5
+GSUM	global_setting.h	/^	GSUM$/;"	e	enum:__anon5
+HAVE_ARPA_INET_H	config.h	5;"	d
+HAVE_DECL_TIOCSRS485	config.h	9;"	d
+HAVE_DECL___CYGWIN__	config.h	13;"	d
+HAVE_DLFCN_H	config.h	16;"	d
+HAVE_ERRNO_H	config.h	19;"	d
+HAVE_FCNTL_H	config.h	22;"	d
+HAVE_FORK	config.h	25;"	d
+HAVE_GETADDRINFO	config.h	28;"	d
+HAVE_GETTIMEOFDAY	config.h	31;"	d
+HAVE_INET_NTOA	config.h	34;"	d
+HAVE_INTTYPES_H	config.h	37;"	d
+HAVE_LIMITS_H	config.h	40;"	d
+HAVE_LINUX_SERIAL_H	config.h	43;"	d
+HAVE_MEMORY_H	config.h	46;"	d
+HAVE_MEMSET	config.h	49;"	d
+HAVE_NETDB_H	config.h	52;"	d
+HAVE_NETINET_IN_H	config.h	55;"	d
+HAVE_NETINET_TCP_H	config.h	58;"	d
+HAVE_SELECT	config.h	61;"	d
+HAVE_SOCKET	config.h	64;"	d
+HAVE_STDINT_H	config.h	67;"	d
+HAVE_STDLIB_H	config.h	70;"	d
+HAVE_STRERROR	config.h	73;"	d
+HAVE_STRINGS_H	config.h	76;"	d
+HAVE_STRING_H	config.h	79;"	d
+HAVE_SYS_IOCTL_H	config.h	85;"	d
+HAVE_SYS_SOCKET_H	config.h	88;"	d
+HAVE_SYS_STAT_H	config.h	91;"	d
+HAVE_SYS_TIME_H	config.h	94;"	d
+HAVE_SYS_TYPES_H	config.h	97;"	d
+HAVE_TERMIOS_H	config.h	100;"	d
+HAVE_TIME_H	config.h	103;"	d
+HAVE_UNISTD_H	config.h	106;"	d
+HAVE_VFORK	config.h	109;"	d
+HAVE_WORKING_FORK	config.h	118;"	d
+HAVE_WORKING_VFORK	config.h	121;"	d
+HIGH_LEVEL_CONTROL_H	high_level_control.h	2;"	d
+HMING_CMPL_ad	alpha_setting.h	312;"	d
+HMING_CMPL_fc	alpha_setting.h	203;"	d
+HM_PST_LS_DETC_ad	alpha_setting.h	329;"	d
+HM_PST_LS_DETC_fc	alpha_setting.h	220;"	d
+IMME_VLU_ACC_TIM_ad	alpha_setting.h	89;"	d
+IMME_VLU_CHG_CMPL_ad	alpha_setting.h	345;"	d
+IMME_VLU_CHG_CMPL_fc	alpha_setting.h	236;"	d
+IMME_VLU_CHG_ad	alpha_setting.h	264;"	d
+IMME_VLU_CHG_fc	alpha_setting.h	155;"	d
+IMME_VLU_CNTIN_CMPL_ad	alpha_setting.h	344;"	d
+IMME_VLU_CNTIN_CMPL_fc	alpha_setting.h	235;"	d
+IMME_VLU_CNTIN_PERMS_ad	alpha_setting.h	343;"	d
+IMME_VLU_CNTIN_PERMS_fc	alpha_setting.h	234;"	d
+IMME_VLU_CTINU_ad	alpha_setting.h	263;"	d
+IMME_VLU_CTINU_fc	alpha_setting.h	154;"	d
+IMME_VLU_DEC_TIM_ad	alpha_setting.h	90;"	d
+IMME_VLU_POSITION_ad	alpha_setting.h	87;"	d
+IMME_VLU_SPEED_ad	alpha_setting.h	88;"	d
+IMME_VLU_STATUS_ad	alpha_setting.h	86;"	d
+INCFLAGS	motor-term/Makefile	/^INCFLAGS = $/;"	m
+INC_POSITION_MODE	alpha_motion_control.h	24;"	d
+INITLIZING	global_setting.h	/^    INITLIZING,$/;"	e	enum:__anon8
+INI_INVALID_KEY	iniparser.c	16;"	d	file:
+INP_ad	alpha_setting.h	302;"	d
+INP_fc	alpha_setting.h	193;"	d
+INTRUPT_IN_EN_ad	alpha_setting.h	283;"	d
+INTRUPT_IN_EN_fc	alpha_setting.h	174;"	d
+INTRUPT_IN_ad	alpha_setting.h	284;"	d
+INTRUPT_IN_fc	alpha_setting.h	175;"	d
+INTRUPT_PST_DECT_ad	alpha_setting.h	349;"	d
+INTRUPT_PST_DECT_fc	alpha_setting.h	240;"	d
+LDFLAGS	motor-term/Makefile	/^LDFLAGS = -Wl,-rpath,\/usr\/local\/lib$/;"	m
+LEFTMOVE	global_setting.h	/^    LEFTMOVE,$/;"	e	enum:__anon7
+LEFTORRIGHT	global_setting.h	/^    LEFTORRIGHT,$/;"	e	enum:__anon8
+LIBMODBUS_VERSION	modbus-version.h	31;"	d
+LIBMODBUS_VERSION_CHECK	modbus-version.h	44;"	d
+LIBMODBUS_VERSION_HEX	modbus-version.h	38;"	d
+LIBMODBUS_VERSION_MAJOR	modbus-version.h	22;"	d
+LIBMODBUS_VERSION_MICRO	modbus-version.h	28;"	d
+LIBMODBUS_VERSION_MINOR	modbus-version.h	25;"	d
+LIBMODBUS_VERSION_STRING	modbus-version.h	35;"	d
+LIBS	Makefile	/^LIBS=-lpthread$/;"	m
+LIBS	motor-term/Makefile	/^LIBS = -lpthread$/;"	m
+LIFE_WRNING_ad	alpha_setting.h	332;"	d
+LIFE_WRNING_fc	alpha_setting.h	223;"	d
+LINE_COMMENT	iniparser.c	/^    LINE_COMMENT,$/;"	e	enum:_line_status_	file:
+LINE_EMPTY	iniparser.c	/^    LINE_EMPTY,$/;"	e	enum:_line_status_	file:
+LINE_ERROR	iniparser.c	/^    LINE_ERROR,$/;"	e	enum:_line_status_	file:
+LINE_SECTION	iniparser.c	/^    LINE_SECTION,$/;"	e	enum:_line_status_	file:
+LINE_UNPROCESSED	iniparser.c	/^    LINE_UNPROCESSED,$/;"	e	enum:_line_status_	file:
+LINE_VALUE	iniparser.c	/^    LINE_VALUE$/;"	e	enum:_line_status_	file:
+LMTER_DETC_ad	alpha_setting.h	309;"	d
+LMTER_DETC_fc	alpha_setting.h	200;"	d
+LOCATING	global_setting.h	/^    LOCATING,$/;"	e	enum:__anon8
+LOG_LVL	elog.h	202;"	d
+LOG_TAG	elog.c	29;"	d	file:
+LOG_TAG	elog.h	199;"	d
+LS_ad	alpha_setting.h	253;"	d
+LS_fc	alpha_setting.h	144;"	d
+LT_OBJDIR	config.h	125;"	d
+MAXVALSZ	dictionary.c	24;"	d	file:
+MAX_ACCE_DECE_TIME	alpha_motion_control.c	11;"	d	file:
+MAX_MESSAGE_LENGTH	modbus.c	44;"	d	file:
+MAX_MOTOR_SPEED	alpha_motion_control.c	9;"	d	file:
+MAX_STRIDE	am335x_setting.h	16;"	d
+MD0_ad	alpha_setting.h	333;"	d
+MD0_fc	alpha_setting.h	224;"	d
+MD1_ad	alpha_setting.h	334;"	d
+MD1_fc	alpha_setting.h	225;"	d
+MD2_ad	alpha_setting.h	335;"	d
+MD2_fc	alpha_setting.h	226;"	d
+MD3_ad	alpha_setting.h	336;"	d
+MD3_fc	alpha_setting.h	227;"	d
+MD4_ad	alpha_setting.h	337;"	d
+MD4_fc	alpha_setting.h	228;"	d
+MD5_ad	alpha_setting.h	338;"	d
+MD5_fc	alpha_setting.h	229;"	d
+MD6_ad	alpha_setting.h	339;"	d
+MD6_fc	alpha_setting.h	230;"	d
+MD7_ad	alpha_setting.h	340;"	d
+MD7_fc	alpha_setting.h	231;"	d
+MIN_ACCE_DECE_TIME	alpha_motion_control.c	12;"	d	file:
+MIN_MOTOR_SPEED	alpha_motion_control.c	10;"	d	file:
+MODBUS_BEGIN_DECLS	modbus.h	38;"	d
+MODBUS_BEGIN_DECLS	modbus.h	41;"	d
+MODBUS_BROADCAST_ADDRESS	modbus.h	63;"	d
+MODBUS_END_DECLS	modbus.h	39;"	d
+MODBUS_END_DECLS	modbus.h	42;"	d
+MODBUS_ENOBASE	modbus.h	85;"	d
+MODBUS_ERROR_RECOVERY_LINK	modbus.h	/^    MODBUS_ERROR_RECOVERY_LINK          = (1<<1),$/;"	e	enum:__anon13
+MODBUS_ERROR_RECOVERY_NONE	modbus.h	/^    MODBUS_ERROR_RECOVERY_NONE          = 0,$/;"	e	enum:__anon13
+MODBUS_ERROR_RECOVERY_PROTOCOL	modbus.h	/^    MODBUS_ERROR_RECOVERY_PROTOCOL      = (1<<2),$/;"	e	enum:__anon13
+MODBUS_EXCEPTION_ACKNOWLEDGE	modbus.h	/^    MODBUS_EXCEPTION_ACKNOWLEDGE,$/;"	e	enum:__anon11
+MODBUS_EXCEPTION_GATEWAY_PATH	modbus.h	/^    MODBUS_EXCEPTION_GATEWAY_PATH,$/;"	e	enum:__anon11
+MODBUS_EXCEPTION_GATEWAY_TARGET	modbus.h	/^    MODBUS_EXCEPTION_GATEWAY_TARGET,$/;"	e	enum:__anon11
+MODBUS_EXCEPTION_ILLEGAL_DATA_ADDRESS	modbus.h	/^    MODBUS_EXCEPTION_ILLEGAL_DATA_ADDRESS,$/;"	e	enum:__anon11
+MODBUS_EXCEPTION_ILLEGAL_DATA_VALUE	modbus.h	/^    MODBUS_EXCEPTION_ILLEGAL_DATA_VALUE,$/;"	e	enum:__anon11
+MODBUS_EXCEPTION_ILLEGAL_FUNCTION	modbus.h	/^    MODBUS_EXCEPTION_ILLEGAL_FUNCTION = 0x01,$/;"	e	enum:__anon11
+MODBUS_EXCEPTION_MAX	modbus.h	/^    MODBUS_EXCEPTION_MAX$/;"	e	enum:__anon11
+MODBUS_EXCEPTION_MEMORY_PARITY	modbus.h	/^    MODBUS_EXCEPTION_MEMORY_PARITY,$/;"	e	enum:__anon11
+MODBUS_EXCEPTION_NEGATIVE_ACKNOWLEDGE	modbus.h	/^    MODBUS_EXCEPTION_NEGATIVE_ACKNOWLEDGE,$/;"	e	enum:__anon11
+MODBUS_EXCEPTION_NOT_DEFINED	modbus.h	/^    MODBUS_EXCEPTION_NOT_DEFINED,$/;"	e	enum:__anon11
+MODBUS_EXCEPTION_SLAVE_OR_SERVER_BUSY	modbus.h	/^    MODBUS_EXCEPTION_SLAVE_OR_SERVER_BUSY,$/;"	e	enum:__anon11
+MODBUS_EXCEPTION_SLAVE_OR_SERVER_FAILURE	modbus.h	/^    MODBUS_EXCEPTION_SLAVE_OR_SERVER_FAILURE,$/;"	e	enum:__anon11
+MODBUS_GET_HIGH_BYTE	modbus.h	201;"	d
+MODBUS_GET_INT16_FROM_INT8	modbus.h	204;"	d
+MODBUS_GET_INT32_FROM_INT16	modbus.h	203;"	d
+MODBUS_GET_LOW_BYTE	modbus.h	202;"	d
+MODBUS_MAX_READ_BITS	modbus.h	70;"	d
+MODBUS_MAX_READ_REGISTERS	modbus.h	80;"	d
+MODBUS_MAX_RW_WRITE_REGISTERS	modbus.h	82;"	d
+MODBUS_MAX_WRITE_BITS	modbus.h	71;"	d
+MODBUS_MAX_WRITE_REGISTERS	modbus.h	81;"	d
+MODBUS_RTU_MAX_ADU_LENGTH	modbus-rtu.h	29;"	d
+MODBUS_RTU_RS232	modbus-rtu.h	34;"	d
+MODBUS_RTU_RS485	modbus-rtu.h	35;"	d
+MODBUS_SET_INT16_TO_INT8	modbus.h	205;"	d
+MSG_CONFIRMATION	modbus.c	/^    MSG_CONFIRMATION$/;"	e	enum:__anon10	file:
+MSG_INDICATION	modbus.c	/^    MSG_INDICATION,$/;"	e	enum:__anon10	file:
+MSG_LENGTH_UNDEFINED	modbus.c	36;"	d	file:
+MY_PORT	motor-term/motor_term.c	37;"	d	file:
+M_PULSE_PER_CIRCLE	alpha_setting.h	357;"	d
+MovementStatus	global_setting.h	/^}MovementStatus;$/;"	t	typeref:enum:__anon7
+NONE	global_setting.h	/^    NONE=0,$/;"	e	enum:__anon8
+NOTMOVE	global_setting.h	/^    NOTMOVE=1,$/;"	e	enum:__anon7
+OBJECTS	motor-term/Makefile	/^OBJECTS = motor_term.o$/;"	m
+OBJS	Makefile	/^OBJS=$(patsubst %.c, %.o, $(notdir $(SRC)))$/;"	m
+OFF	modbus.h	56;"	d
+ON	modbus.h	60;"	d
+OPLOOPS	alpha_setting.h	12;"	d
+ORG_ad	alpha_setting.h	252;"	d
+ORG_fc	alpha_setting.h	143;"	d
+ORLD_WRNING_ad	alpha_setting.h	317;"	d
+ORLD_WRNING_fc	alpha_setting.h	208;"	d
+OT_DETC_ad	alpha_setting.h	310;"	d
+OT_DETC_fc	alpha_setting.h	201;"	d
+OT_MINUS_DETC_ad	alpha_setting.h	328;"	d
+OT_MINUS_DETC_fc	alpha_setting.h	219;"	d
+OT_MINUS_ad	alpha_setting.h	255;"	d
+OT_MINUS_fc	alpha_setting.h	146;"	d
+OT_PLUS_DETC_ad	alpha_setting.h	327;"	d
+OT_PLUS_DETC_fc	alpha_setting.h	218;"	d
+OT_PLUS_ad	alpha_setting.h	254;"	d
+OT_PLUS_fc	alpha_setting.h	145;"	d
+OUT10_ad	alpha_setting.h	125;"	d
+OUT11_ad	alpha_setting.h	126;"	d
+OUT12_ad	alpha_setting.h	127;"	d
+OUT13_ad	alpha_setting.h	128;"	d
+OUT14_ad	alpha_setting.h	129;"	d
+OUT15_ad	alpha_setting.h	130;"	d
+OUT16_ad	alpha_setting.h	131;"	d
+OUT17_ad	alpha_setting.h	132;"	d
+OUT18_ad	alpha_setting.h	133;"	d
+OUT19_ad	alpha_setting.h	134;"	d
+OUT1_ad	alpha_setting.h	117;"	d
+OUT20_ad	alpha_setting.h	135;"	d
+OUT21_ad	alpha_setting.h	136;"	d
+OUT2_ad	alpha_setting.h	118;"	d
+OUT3_ad	alpha_setting.h	119;"	d
+OUT6_ad	alpha_setting.h	121;"	d
+OUT7_ad	alpha_setting.h	122;"	d
+OUT8_ad	alpha_setting.h	123;"	d
+OUT9_ad	alpha_setting.h	124;"	d
+OVERRIDE1_ad	alpha_setting.h	279;"	d
+OVERRIDE1_fc	alpha_setting.h	170;"	d
+OVERRIDE2_ad	alpha_setting.h	280;"	d
+OVERRIDE2_fc	alpha_setting.h	171;"	d
+OVERRIDE4_ad	alpha_setting.h	281;"	d
+OVERRIDE4_fc	alpha_setting.h	172;"	d
+OVERRIDE8_ad	alpha_setting.h	282;"	d
+OVERRIDE8_fc	alpha_setting.h	173;"	d
+OVERRIDE_EN_ad	alpha_setting.h	278;"	d
+OVERRIDE_EN_fc	alpha_setting.h	169;"	d
+OVER_WR_CMPL_ad	alpha_setting.h	304;"	d
+OVER_WR_CMPL_fc	alpha_setting.h	195;"	d
+PA1_01_ad	alpha_setting.h	15;"	d
+PA1_02_ad	alpha_setting.h	16;"	d
+PA1_03_ad	alpha_setting.h	17;"	d
+PA1_04_ad	alpha_setting.h	18;"	d
+PA1_05_ad	alpha_setting.h	19;"	d
+PA1_06_ad	alpha_setting.h	20;"	d
+PA1_07_ad	alpha_setting.h	21;"	d
+PA1_12_ad	alpha_setting.h	22;"	d
+PA1_33_ad	alpha_setting.h	23;"	d
+PA1_35_ad	alpha_setting.h	24;"	d
+PA2_01_ad	alpha_setting.h	26;"	d
+PA2_25_ad	alpha_setting.h	27;"	d
+PA2_26_ad	alpha_setting.h	28;"	d
+PA2_27_ad	alpha_setting.h	29;"	d
+PA2_28_ad	alpha_setting.h	30;"	d
+PA2_29_ad	alpha_setting.h	31;"	d
+PA2_40_ad	alpha_setting.h	32;"	d
+PA2_41_ad	alpha_setting.h	33;"	d
+PA2_72_ad	alpha_setting.h	34;"	d
+PA2_73_ad	alpha_setting.h	35;"	d
+PA2_93_ad	alpha_setting.h	36;"	d
+PA2_94_ad	alpha_setting.h	37;"	d
+PA2_95_ad	alpha_setting.h	38;"	d
+PA2_97_ad	alpha_setting.h	39;"	d
+PA2_99_ad	alpha_setting.h	40;"	d
+PA3_01_ad	alpha_setting.h	42;"	d
+PA3_02_ad	alpha_setting.h	43;"	d
+PA3_03_ad	alpha_setting.h	44;"	d
+PA3_04_ad	alpha_setting.h	45;"	d
+PA3_05_ad	alpha_setting.h	46;"	d
+PA3_09_ad	alpha_setting.h	47;"	d
+PA3_10_ad	alpha_setting.h	48;"	d
+PA3_11_ad	alpha_setting.h	49;"	d
+PA3_12_ad	alpha_setting.h	50;"	d
+PA3_13_ad	alpha_setting.h	51;"	d
+PA3_14_ad	alpha_setting.h	52;"	d
+PA3_15_ad	alpha_setting.h	53;"	d
+PA3_16_ad	alpha_setting.h	54;"	d
+PA3_17_ad	alpha_setting.h	55;"	d
+PA3_18_ad	alpha_setting.h	56;"	d
+PA3_19_ad	alpha_setting.h	57;"	d
+PA3_20_ad	alpha_setting.h	58;"	d
+PA3_21_ad	alpha_setting.h	59;"	d
+PA3_22_ad	alpha_setting.h	60;"	d
+PA3_23_ad	alpha_setting.h	61;"	d
+PA3_24_ad	alpha_setting.h	62;"	d
+PA3_36_ad	alpha_setting.h	63;"	d
+PA3_51_ad	alpha_setting.h	65;"	d
+PA3_52_ad	alpha_setting.h	66;"	d
+PA3_53_ad	alpha_setting.h	67;"	d
+PA3_56_ad	alpha_setting.h	68;"	d
+PA3_57_ad	alpha_setting.h	69;"	d
+PA3_58_ad	alpha_setting.h	70;"	d
+PA3_59_ad	alpha_setting.h	71;"	d
+PA3_60_ad	alpha_setting.h	72;"	d
+PA3_61_ad	alpha_setting.h	73;"	d
+PA3_62_ad	alpha_setting.h	74;"	d
+PA3_63_ad	alpha_setting.h	75;"	d
+PA3_64_ad	alpha_setting.h	76;"	d
+PA3_65_ad	alpha_setting.h	77;"	d
+PA3_66_ad	alpha_setting.h	78;"	d
+PA3_67_ad	alpha_setting.h	79;"	d
+PA3_68_ad	alpha_setting.h	80;"	d
+PA3_69_ad	alpha_setting.h	81;"	d
+PA3_70_ad	alpha_setting.h	82;"	d
+PA3_71_ad	alpha_setting.h	83;"	d
+PACKAGE	config.h	128;"	d
+PACKAGE_BUGREPORT	config.h	131;"	d
+PACKAGE_NAME	config.h	134;"	d
+PACKAGE_STRING	config.h	137;"	d
+PACKAGE_TARNAME	config.h	140;"	d
+PACKAGE_URL	config.h	143;"	d
+PACKAGE_VERSION	config.h	146;"	d
+PAUSE_ad	alpha_setting.h	271;"	d
+PAUSE_fc	alpha_setting.h	162;"	d
+POINT_DETC_AREA1_ad	alpha_setting.h	307;"	d
+POINT_DETC_AREA1_fc	alpha_setting.h	198;"	d
+POINT_DETC_AREA2_ad	alpha_setting.h	308;"	d
+POINT_DETC_AREA2_fc	alpha_setting.h	199;"	d
+PROPORTIONAL_CTRL_ad	alpha_setting.h	270;"	d
+PROPORTIONAL_CTRL_fc	alpha_setting.h	161;"	d
+PST_CANCEL_ad	alpha_setting.h	272;"	d
+PST_CANCEL_fc	alpha_setting.h	163;"	d
+PST_CTRL_ad	alpha_setting.h	276;"	d
+PST_CTRL_fc	alpha_setting.h	167;"	d
+PST_DATA_SLCT_ad	alpha_setting.h	297;"	d
+PST_DATA_SLCT_fc	alpha_setting.h	188;"	d
+PST_PRESET_ad	alpha_setting.h	259;"	d
+PST_PRESET_fc	alpha_setting.h	150;"	d
+PST_PRST_CMPL_ad	alpha_setting.h	341;"	d
+PST_PRST_CMPL_fc	alpha_setting.h	232;"	d
+PY_BUF_SIZE	modbus-rtu-private.h	44;"	d
+RANGE1_OF_PST_ad	alpha_setting.h	347;"	d
+RANGE1_OF_PST_fc	alpha_setting.h	238;"	d
+RANGE2_OF_PST_ad	alpha_setting.h	348;"	d
+RANGE2_OF_PST_fc	alpha_setting.h	239;"	d
+RDY_ad	alpha_setting.h	301;"	d
+RDY_fc	alpha_setting.h	192;"	d
+REGISTERS_BUFFER_SIZE	alpha_setting.h	360;"	d
+REV_ad	alpha_setting.h	250;"	d
+REV_fc	alpha_setting.h	141;"	d
+RIGHTMOVE	global_setting.h	/^    RIGHTMOVE$/;"	e	enum:__anon7
+RST_ad	alpha_setting.h	257;"	d
+RST_fc	alpha_setting.h	148;"	d
+SERVER_IP	motor-term/motor_term.c	/^const char * SERVER_IP = "192.168.0.15";$/;"	v
+SERVER_PORT	motor-term/motor_term.c	38;"	d	file:
+SERVO_ON_ad	alpha_setting.h	248;"	d
+SERVO_ON_fc	alpha_setting.h	139;"	d
+SPD_COINCD_ad	alpha_setting.h	315;"	d
+SPD_COINCD_fc	alpha_setting.h	206;"	d
+SPD_LMT_DETC_ad	alpha_setting.h	303;"	d
+SPD_LMT_DETC_fc	alpha_setting.h	194;"	d
+SRC	Makefile	/^SRC=$(wildcard .\/*.c)$/;"	m
+START_ad	alpha_setting.h	251;"	d
+START_fc	alpha_setting.h	142;"	d
+STDC_HEADERS	config.h	149;"	d
+STOPING	global_setting.h	/^    STOPING,$/;"	e	enum:__anon8
+S_BLINK	elog.c	89;"	d	file:
+S_BOLD	elog.c	87;"	d	file:
+S_NORMAL	elog.c	90;"	d	file:
+S_RDY_ad	alpha_setting.h	318;"	d
+S_RDY_fc	alpha_setting.h	209;"	d
+S_UNDERLINE	elog.c	88;"	d	file:
+TARGET	Makefile	/^TARGET=motor-servo$/;"	m
+TEACHING_ad	alpha_setting.h	274;"	d
+TEACHING_fc	alpha_setting.h	165;"	d
+TIME_WITH_SYS_TIME	config.h	152;"	d
+TRANSMISSION_RATIO	alpha_setting.h	358;"	d
+TRQ_CTRL_ad	alpha_setting.h	277;"	d
+TRQ_CTRL_fc	alpha_setting.h	168;"	d
+TRQ_LMT0_ad	alpha_setting.h	261;"	d
+TRQ_LMT0_fc	alpha_setting.h	152;"	d
+TRQ_LMT1_ad	alpha_setting.h	262;"	d
+TRQ_LMT1_fc	alpha_setting.h	153;"	d
+TRQ_LMT_DETC_ad	alpha_setting.h	316;"	d
+TRQ_LMT_DETC_fc	alpha_setting.h	207;"	d
+TRUE	modbus.h	52;"	d
+VERSION	config.h	155;"	d
+X1_ad	alpha_setting.h	286;"	d
+X1_fc	alpha_setting.h	177;"	d
+X2_ad	alpha_setting.h	287;"	d
+X2_fc	alpha_setting.h	178;"	d
+X3_ad	alpha_setting.h	288;"	d
+X3_fc	alpha_setting.h	179;"	d
+ZRO_DEVI_ad	alpha_setting.h	313;"	d
+ZRO_DEVI_fc	alpha_setting.h	204;"	d
+ZRO_SPEED_ad	alpha_setting.h	314;"	d
+ZRO_SPEED_fc	alpha_setting.h	205;"	d
+_BYTE_TIMEOUT	modbus-private.h	52;"	d
+_DICTIONARY_H_	dictionary.h	15;"	d
+_ELOG_CFG_H_	elog_cfg.h	30;"	d
+_FC_READ_COILS	modbus-private.h	55;"	d
+_FC_READ_DISCRETE_INPUTS	modbus-private.h	56;"	d
+_FC_READ_EXCEPTION_STATUS	modbus-private.h	61;"	d
+_FC_READ_HOLDING_REGISTERS	modbus-private.h	57;"	d
+_FC_READ_INPUT_REGISTERS	modbus-private.h	58;"	d
+_FC_REPORT_SLAVE_ID	modbus-private.h	64;"	d
+_FC_WRITE_AND_READ_REGISTERS	modbus-private.h	65;"	d
+_FC_WRITE_MULTIPLE_COILS	modbus-private.h	62;"	d
+_FC_WRITE_MULTIPLE_REGISTERS	modbus-private.h	63;"	d
+_FC_WRITE_SINGLE_COIL	modbus-private.h	59;"	d
+_FC_WRITE_SINGLE_REGISTER	modbus-private.h	60;"	d
+_INIPARSER_H_	iniparser.h	11;"	d
+_MIN_REQ_LENGTH	modbus-private.h	44;"	d
+_MODBUS_BACKEND_TYPE_RTU	modbus-private.h	/^    _MODBUS_BACKEND_TYPE_RTU=0,$/;"	e	enum:__anon14
+_MODBUS_BACKEND_TYPE_TCP	modbus-private.h	/^    _MODBUS_BACKEND_TYPE_TCP$/;"	e	enum:__anon14
+_MODBUS_EXCEPTION_RSP_LENGTH	modbus-private.h	48;"	d
+_MODBUS_H_	modbus.h	20;"	d
+_MODBUS_PRIVATE_H_	modbus-private.h	20;"	d
+_MODBUS_RTU_CHECKSUM_LENGTH	modbus-rtu-private.h	38;"	d
+_MODBUS_RTU_HEADER_LENGTH	modbus-rtu-private.h	34;"	d
+_MODBUS_RTU_H_	modbus-rtu.h	20;"	d
+_MODBUS_RTU_PRESET_REQ_LENGTH	modbus-rtu-private.h	35;"	d
+_MODBUS_RTU_PRESET_RSP_LENGTH	modbus-rtu-private.h	36;"	d
+_MODBUS_RTU_PRIVATE_H_	modbus-rtu-private.h	20;"	d
+_MODBUS_VERSION_H_	modbus-version.h	19;"	d
+_REPORT_SLAVE_ID	modbus-private.h	46;"	d
+_RESPONSE_TIMEOUT	modbus-private.h	51;"	d
+_STEP_DATA	modbus.c	/^    _STEP_DATA$/;"	e	enum:__anon9	file:
+_STEP_FUNCTION	modbus.c	/^    _STEP_FUNCTION,$/;"	e	enum:__anon9	file:
+_STEP_META	modbus.c	/^    _STEP_META,$/;"	e	enum:__anon9	file:
+__ELOG_H__	elog.h	30;"	d
+_dictionary_	dictionary.h	/^typedef struct _dictionary_ {$/;"	s
+_error_print	modbus.c	/^void _error_print(modbus_t *ctx, const char *context)$/;"	f
+_line_status_	iniparser.c	/^typedef enum _line_status_ {$/;"	g	file:
+_modbus	modbus-private.h	/^struct _modbus {$/;"	s
+_modbus_backend	modbus-private.h	/^typedef struct _modbus_backend {$/;"	s
+_modbus_init_common	modbus.c	/^void _modbus_init_common(modbus_t *ctx)$/;"	f
+_modbus_rtu	modbus-rtu-private.h	/^typedef struct _modbus_rtu {$/;"	s
+_modbus_rtu_backend	modbus-rtu.c	/^const modbus_backend_t _modbus_rtu_backend = {$/;"	v
+_modbus_rtu_build_request_basis	modbus-rtu.c	/^static int _modbus_rtu_build_request_basis(modbus_t *ctx, int function,$/;"	f	file:
+_modbus_rtu_build_response_basis	modbus-rtu.c	/^static int _modbus_rtu_build_response_basis(sft_t *sft, uint8_t *rsp)$/;"	f	file:
+_modbus_rtu_check_integrity	modbus-rtu.c	/^int _modbus_rtu_check_integrity(modbus_t *ctx, uint8_t *msg,$/;"	f
+_modbus_rtu_close	modbus-rtu.c	/^void _modbus_rtu_close(modbus_t *ctx)$/;"	f
+_modbus_rtu_connect	modbus-rtu.c	/^static int _modbus_rtu_connect(modbus_t *ctx)$/;"	f	file:
+_modbus_rtu_filter_request	modbus-rtu.c	/^int _modbus_rtu_filter_request(modbus_t *ctx, int slave)$/;"	f
+_modbus_rtu_flush	modbus-rtu.c	/^int _modbus_rtu_flush(modbus_t *ctx)$/;"	f
+_modbus_rtu_prepare_response_tid	modbus-rtu.c	/^int _modbus_rtu_prepare_response_tid(const uint8_t *req, int *req_length)$/;"	f
+_modbus_rtu_recv	modbus-rtu.c	/^ssize_t _modbus_rtu_recv(modbus_t *ctx, uint8_t *rsp, int rsp_length)$/;"	f
+_modbus_rtu_select	modbus-rtu.c	/^int _modbus_rtu_select(modbus_t *ctx, fd_set *rfds,$/;"	f
+_modbus_rtu_send	modbus-rtu.c	/^ssize_t _modbus_rtu_send(modbus_t *ctx, const uint8_t *req, int req_length)$/;"	f
+_modbus_rtu_send_msg_pre	modbus-rtu.c	/^int _modbus_rtu_send_msg_pre(uint8_t *req, int req_length)$/;"	f
+_modbus_set_slave	modbus-rtu.c	/^static int _modbus_set_slave(modbus_t *ctx, int slave)$/;"	f	file:
+_sft	modbus-private.h	/^typedef struct _sft {$/;"	s
+_sleep_and_flush	modbus.c	/^int _sleep_and_flush(modbus_t *ctx)$/;"	f
+_step_t	modbus.c	/^} _step_t;$/;"	t	typeref:enum:__anon9	file:
+alarm_reset	high_level_control.c	/^int alarm_reset()$/;"	f
+am335x_socket_t	cmdparser.h	/^struct am335x_socket_t{$/;"	s
+am335x_socket_t	cmdparser.h	/^typedef struct am335x_socket_t am335x_socket_t;$/;"	t	typeref:struct:am335x_socket_t
+anticlockwise	global_setting.c	/^volatile int anticlockwise;$/;"	v
+assert	elog.h	237;"	d
+async_get_buf_space	elog_async.c	/^static size_t async_get_buf_space(void) {$/;"	f	file:
+async_output	elog_async.c	/^static void *async_output(void *arg) {$/;"	f	file:
+async_output_thread	elog_async.c	/^static pthread_t async_output_thread;$/;"	v	file:
+async_put_log	elog_async.c	/^static size_t async_put_log(const char *log, size_t size) {$/;"	f	file:
+backend	modbus-private.h	/^    const modbus_backend_t *backend;$/;"	m	struct:_modbus
+backend_data	modbus-private.h	/^    void *backend_data;$/;"	m	struct:_modbus
+backend_type	modbus-private.h	/^    unsigned int backend_type;$/;"	m	struct:_modbus_backend
+baud	alpha_setting.h	/^        int baud;$/;"	m	struct:rtu_master_t
+baud	am335x_setting.h	/^    int baud;$/;"	m	struct:uart_t
+baud	modbus-rtu-private.h	/^    int baud;$/;"	m	struct:_modbus_rtu
+buf	modbus-rtu-private.h	/^	uint8_t buf[PY_BUF_SIZE];$/;"	m	struct:win32_ser
+buf_is_empty	elog_async.c	/^static bool buf_is_empty = true;$/;"	v	file:
+buf_is_full	elog_async.c	/^static bool buf_is_full = false;$/;"	v	file:
+buf_write_size	elog_buf.c	/^static size_t buf_write_size = 0;$/;"	v	file:
+build_request_basis	modbus-private.h	/^    int (*build_request_basis) (modbus_t *ctx, int function, int addr,$/;"	m	struct:_modbus_backend
+build_response_basis	modbus-private.h	/^    int (*build_response_basis) (sft_t *sft, uint8_t *rsp);$/;"	m	struct:_modbus_backend
+byte_timeout	modbus-private.h	/^    struct timeval byte_timeout;$/;"	m	struct:_modbus	typeref:struct:_modbus::timeval
+check_acce_time	alpha_motion_control.c	/^uint16_t check_acce_time[2]; \/\/ 自检操作时的加速时间$/;"	v
+check_confirmation	modbus.c	/^static int check_confirmation(modbus_t *ctx, uint8_t *req,$/;"	f	file:
+check_dece_time	alpha_motion_control.c	/^uint16_t check_dece_time[2]; \/\/ 自检操作时的减速时间$/;"	v
+check_integrity	modbus-private.h	/^    int (*check_integrity) (modbus_t *ctx, uint8_t *msg,$/;"	m	struct:_modbus_backend
+check_io	alpha_setting.c	/^int check_io(int addr, int code)$/;"	f
+check_motion	high_level_control.c	/^int check_motion()$/;"	f
+check_parameters	alpha_setting.c	/^int check_parameters()$/;"	f
+check_register	alpha_setting.c	/^int check_register(int addr, uint16_t val0, uint16_t val1)$/;"	f
+check_speed	alpha_motion_control.c	/^uint16_t check_speed[2]; \/\/ 自检操作时的运行速度$/;"	v
+checksum_length	modbus-private.h	/^    unsigned int checksum_length;$/;"	m	struct:_modbus_backend
+clientAddr	cmdparser.c	/^struct sockaddr_in clientAddr;$/;"	v	typeref:struct:sockaddr_in
+close	modbus-private.h	/^    void (*close) (modbus_t *ctx);$/;"	m	struct:_modbus_backend
+close_modbus_rtu_master	alpha_setting.c	/^void close_modbus_rtu_master()$/;"	f
+close_uart	am335x_setting.c	/^void close_uart()$/;"	f
+cmd	global_setting.h	/^    GFLAGS cmd;$/;"	m	struct:__anon6
+color_output_info	elog.c	/^static const char *color_output_info[] = {$/;"	v	file:
+compute_data_length_after_meta	modbus.c	/^static int compute_data_length_after_meta(modbus_t *ctx, uint8_t *msg,$/;"	f	file:
+compute_meta_length_after_function	modbus.c	/^static uint8_t compute_meta_length_after_function(int function,$/;"	f	file:
+compute_response_length_from_request	modbus.c	/^static unsigned int compute_response_length_from_request(modbus_t *ctx, uint8_t *req)$/;"	f	file:
+connect	modbus-private.h	/^    int (*connect) (modbus_t *ctx);$/;"	m	struct:_modbus_backend
+conneted	cmdparser.c	/^static int conneted = 0;$/;"	v	file:
+convert_angle_to_inc_position	alpha_motion_control.c	/^void convert_angle_to_inc_position(double angle, uint16_t *inc_position)$/;"	f
+crc16	modbus-rtu.c	/^static uint16_t crc16(uint8_t *buffer, uint16_t buffer_length)$/;"	f	file:
+create_example_ini_file	main.c	/^void create_example_ini_file(void)$/;"	f
+cruise_speed	alpha_motion_control.c	/^uint16_t cruise_speed[2]; \/\/ 运行时的速度$/;"	v
+ctx	alpha_setting.c	/^modbus_t *ctx = NULL;$/;"	v
+cur_v	am335x_setting.c	/^unsigned short  cur_v;$/;"	v
+data_bit	alpha_setting.h	/^        int data_bit;$/;"	m	struct:rtu_master_t
+data_bit	am335x_setting.h	/^    int data_bit;$/;"	m	struct:uart_t
+data_bit	modbus-rtu-private.h	/^    uint8_t data_bit;$/;"	m	struct:_modbus_rtu
+debug	modbus-private.h	/^    int debug;$/;"	m	struct:_modbus
+debug_func_code	alpha_setting.c	/^void debug_func_code(int addr, int len)$/;"	f
+debug_resiter_result	alpha_setting.c	/^void debug_resiter_result(int addr)$/;"	f
+debugnum	am335x_setting.c	162;"	d	file:
+default_error_callback	iniparser.c	/^static int default_error_callback(const char *format, ...)$/;"	f	file:
+destination_angle	global_setting.c	/^volatile double destination_angle = 0;$/;"	v
+device	alpha_setting.h	/^        char device[32];$/;"	m	struct:rtu_master_t
+device	am335x_setting.h	/^    char device[32];$/;"	m	struct:uart_t
+device	modbus-rtu-private.h	/^    char device[64];$/;"	m	struct:_modbus_rtu
+dictionary	dictionary.h	/^} dictionary ;$/;"	t	typeref:struct:_dictionary_
+dictionary_del	dictionary.c	/^void dictionary_del(dictionary * d)$/;"	f
+dictionary_dump	dictionary.c	/^void dictionary_dump(const dictionary * d, FILE * out)$/;"	f
+dictionary_get	dictionary.c	/^const char * dictionary_get(const dictionary * d, const char * key, const char * def)$/;"	f
+dictionary_grow	dictionary.c	/^static int dictionary_grow(dictionary * d)$/;"	f	file:
+dictionary_hash	dictionary.c	/^unsigned dictionary_hash(const char * key)$/;"	f
+dictionary_new	dictionary.c	/^dictionary * dictionary_new(size_t size)$/;"	f
+dictionary_set	dictionary.c	/^int dictionary_set(dictionary * d, const char * key, const char * val)$/;"	f
+dictionary_unset	dictionary.c	/^void dictionary_unset(dictionary * d, const char * key)$/;"	f
+elog	elog.c	/^static EasyLogger elog;$/;"	v	file:
+elog_a	elog.h	187;"	d
+elog_a	elog.h	72;"	d
+elog_assert	elog.h	80;"	d
+elog_assert	elog.h	83;"	d
+elog_assert_hook	elog.c	/^void (*elog_assert_hook)(const char* expr, const char* func, size_t line);$/;"	v
+elog_assert_set_hook	elog.c	/^void elog_assert_set_hook(void (*hook)(const char* expr, const char* func, size_t line)) {$/;"	f
+elog_async_enabled	elog_async.c	/^void elog_async_enabled(bool enabled) {$/;"	f
+elog_async_get_buf_used	elog_async.c	/^static size_t elog_async_get_buf_used(void) {$/;"	f	file:
+elog_async_get_line_log	elog_async.c	/^size_t elog_async_get_line_log(char *log, size_t size) {$/;"	f
+elog_async_get_log	elog_async.c	/^size_t elog_async_get_log(char *log, size_t size) {$/;"	f
+elog_async_init	elog_async.c	/^ElogErrCode elog_async_init(void) {$/;"	f
+elog_async_output	elog_async.c	/^void elog_async_output(const char *log, size_t size) {$/;"	f
+elog_async_output_notice	elog_async.c	/^void elog_async_output_notice(void) {$/;"	f
+elog_buf_enabled	elog_buf.c	/^void elog_buf_enabled(bool enabled) {$/;"	f
+elog_buf_output	elog_buf.c	/^void elog_buf_output(const char *log, size_t size) {$/;"	f
+elog_close	elog.c	/^void elog_close(void) {$/;"	f
+elog_cpyln	elog_utils.c	/^size_t elog_cpyln(char *line, const char *log, size_t len) {$/;"	f
+elog_d	elog.h	191;"	d
+elog_d	elog.h	76;"	d
+elog_debug	elog.h	108;"	d
+elog_debug	elog.h	111;"	d
+elog_e	elog.h	188;"	d
+elog_e	elog.h	73;"	d
+elog_error	elog.h	87;"	d
+elog_error	elog.h	90;"	d
+elog_find_lvl	elog.c	/^int8_t elog_find_lvl(const char *log) {$/;"	f
+elog_find_tag	elog.c	/^const char *elog_find_tag(const char *log, uint8_t lvl, size_t *tag_len) {$/;"	f
+elog_flush	elog_buf.c	/^void elog_flush(void) {$/;"	f
+elog_get_output_enabled	elog.c	/^bool elog_get_output_enabled(void) {$/;"	f
+elog_get_text_color_enabled	elog.c	/^bool elog_get_text_color_enabled(void) {$/;"	f
+elog_i	elog.h	190;"	d
+elog_i	elog.h	75;"	d
+elog_info	elog.h	101;"	d
+elog_info	elog.h	104;"	d
+elog_init	elog.c	/^ElogErrCode elog_init(void) {$/;"	f
+elog_memcpy	elog_utils.c	/^void *elog_memcpy(void *dst, const void *src, size_t count) {$/;"	f
+elog_output	elog.c	/^void elog_output(uint8_t level, const char *tag, const char *file, const char *func,$/;"	f
+elog_output_lock	elog.c	/^void elog_output_lock(void) {$/;"	f
+elog_output_lock_enabled	elog.c	/^void elog_output_lock_enabled(bool enabled) {$/;"	f
+elog_output_unlock	elog.c	/^void elog_output_unlock(void) {$/;"	f
+elog_port_close	elog_port.c	/^ElogErrCode elog_port_close(void) {$/;"	f
+elog_port_get_p_info	elog_port.c	/^const char *elog_port_get_p_info(void) {$/;"	f
+elog_port_get_t_info	elog_port.c	/^const char *elog_port_get_t_info(void) {$/;"	f
+elog_port_get_time	elog_port.c	/^const char *elog_port_get_time(void) {$/;"	f
+elog_port_init	elog_port.c	/^ElogErrCode elog_port_init(void) {$/;"	f
+elog_port_output	elog_port.c	/^void elog_port_output(const char *log, size_t size) {$/;"	f
+elog_port_output_lock	elog_port.c	/^void elog_port_output_lock(void) {$/;"	f
+elog_port_output_unlock	elog_port.c	/^void elog_port_output_unlock(void) {$/;"	f
+elog_raw	elog.c	/^void elog_raw(const char *format, ...) {$/;"	f
+elog_set_filter	elog.c	/^void elog_set_filter(uint8_t level, const char *tag, const char *keyword) {$/;"	f
+elog_set_filter_kw	elog.c	/^void elog_set_filter_kw(const char *keyword) {$/;"	f
+elog_set_filter_lvl	elog.c	/^void elog_set_filter_lvl(uint8_t level) {$/;"	f
+elog_set_filter_tag	elog.c	/^void elog_set_filter_tag(const char *tag) {$/;"	f
+elog_set_fmt	elog.c	/^void elog_set_fmt(uint8_t level, size_t set) {$/;"	f
+elog_set_output_enabled	elog.c	/^void elog_set_output_enabled(bool enabled) {$/;"	f
+elog_set_text_color_enabled	elog.c	/^void elog_set_text_color_enabled(bool enabled) {$/;"	f
+elog_start	elog.c	/^void elog_start(void) {$/;"	f
+elog_strcpy	elog_utils.c	/^size_t elog_strcpy(size_t cur_len, char *dst, const char *src) {$/;"	f
+elog_v	elog.h	192;"	d
+elog_v	elog.h	77;"	d
+elog_verbose	elog.h	115;"	d
+elog_verbose	elog.h	118;"	d
+elog_w	elog.h	189;"	d
+elog_w	elog.h	74;"	d
+elog_warn	elog.h	94;"	d
+elog_warn	elog.h	97;"	d
+enabled_fmt_set	elog.h	/^    size_t enabled_fmt_set[ELOG_LVL_TOTAL_NUM];$/;"	m	struct:__anon3
+encoder_is_enable	am335x_setting.c	/^void encoder_is_enable()$/;"	f
+encoder_is_enable_	am335x_setting.c	/^volatile int encoder_is_enable_ = 0;$/;"	v
+encoder_position	am335x_setting.c	/^volatile int encoder_position;$/;"	v
+encoder_speed	am335x_setting.c	/^volatile double encoder_speed=0;$/;"	v
+error_recovery	modbus-private.h	/^    int error_recovery;$/;"	m	struct:_modbus
+fd	am335x_setting.c	/^int fd=-1;$/;"	v
+fd	modbus-rtu-private.h	/^	HANDLE fd;$/;"	m	struct:win32_ser
+filter	elog.h	/^    ElogFilter filter;$/;"	m	struct:__anon3
+filter_request	modbus-private.h	/^    int (*filter_request) (modbus_t *ctx, int slave);$/;"	m	struct:_modbus_backend
+finish	motor-term/motor_term.c	/^volatile int finish = 1;$/;"	v
+flush	modbus-private.h	/^    int (*flush) (modbus_t *ctx);$/;"	m	struct:_modbus_backend
+force_stop	high_level_control.c	/^int force_stop()$/;"	f
+forced_stop_off	alpha_motion_control.c	/^int forced_stop_off()$/;"	f
+forced_stop_on	alpha_motion_control.c	/^int forced_stop_on()$/;"	f
+free_buffers_for_modbus	alpha_setting.c	/^void free_buffers_for_modbus()$/;"	f
+free_run_off	alpha_motion_control.c	/^int free_run_off()$/;"	f
+free_run_on	alpha_motion_control.c	/^int free_run_on()$/;"	f
+fsh_angle	motor-term/motor_term.c	/^volatile float fsh_angle = 0;$/;"	v
+function	modbus-private.h	/^    int function;$/;"	m	struct:_sft
+g_am335x_socket	main.c	/^am335x_socket_t g_am335x_socket;$/;"	v
+g_am335x_uart	main.c	/^uart_t g_am335x_uart;$/;"	v
+g_ctrl_status	global_setting.c	/^volatile CtrlStatus g_ctrl_status = NONE;$/;"	v
+g_left_angle	global_setting.c	/^static double g_left_angle;$/;"	v	file:
+g_right_angle	global_setting.c	/^static double g_right_angle;$/;"	v	file:
+g_rtu_master	main.c	/^rtu_master_t g_rtu_master;$/;"	v
+g_start_angle	global_setting.c	/^static double g_start_angle;$/;"	v	file:
+g_stop	global_setting.c	/^volatile int g_stop = 0;$/;"	v
+g_sum_angle	global_setting.c	/^volatile double g_sum_angle = 0;$/;"	v
+g_x	global_setting.c	/^volatile param g_x;$/;"	v
+get_acce_value	high_level_control.c	/^int get_acce_value()$/;"	f
+get_anticlockwise	global_setting.c	/^int get_anticlockwise()$/;"	f
+get_command	motor-term/motor_term.c	/^static int get_command()$/;"	f	file:
+get_cont_status	alpha_motion_control.c	/^int get_cont_status(int cont_addr)$/;"	f
+get_cruise_speed	alpha_motion_control.c	/^uint32_t get_cruise_speed()$/;"	f
+get_data_buf	global_setting.c	/^void get_data_buf(char* buf)$/;"	f
+get_dece_value	high_level_control.c	/^int get_dece_value()$/;"	f
+get_destination_angle	global_setting.c	/^double get_destination_angle()$/;"	f
+get_encoder_angle	am335x_setting.c	/^double get_encoder_angle()$/;"	f
+get_encoder_movement	am335x_setting.c	/^MovementStatus get_encoder_movement()$/;"	f
+get_encoder_speed	am335x_setting.c	/^double get_encoder_speed()$/;"	f
+get_fmt_enabled	elog.c	/^static bool get_fmt_enabled(uint8_t level, size_t set) {$/;"	f	file:
+get_g_ctrl_status	global_setting.c	/^CtrlStatus get_g_ctrl_status()$/;"	f
+get_g_left_angle	global_setting.c	/^double get_g_left_angle()$/;"	f
+get_g_right_angle	global_setting.c	/^double get_g_right_angle()$/;"	f
+get_g_start_angle	global_setting.c	/^double get_g_start_angle()$/;"	f
+get_g_sum_angle	global_setting.c	/^double get_g_sum_angle()$/;"	f
+get_g_x	global_setting.c	/^param get_g_x()$/;"	f
+get_imme_acceleration_time	alpha_motion_control.c	/^uint32_t get_imme_acceleration_time()$/;"	f
+get_imme_deceleration_time	alpha_motion_control.c	/^uint32_t get_imme_deceleration_time()$/;"	f
+get_motor_movement	alpha_motion_control.c	/^MovementStatus get_motor_movement()$/;"	f
+get_motor_zero_speed	global_setting.c	/^int get_motor_zero_speed()$/;"	f
+get_out_status	alpha_motion_control.c	/^int get_out_status(int out_addr)$/;"	f
+get_speed_value	high_level_control.c	/^double get_speed_value()$/;"	f
+get_stop	global_setting.c	/^int get_stop()$/;"	f
+global_mutex	global_setting.c	/^pthread_mutex_t global_mutex = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+goto_left	high_level_control.c	/^int goto_left()$/;"	f
+goto_point	high_level_control.c	/^int goto_point(double angle)$/;"	f
+goto_right	high_level_control.c	/^int goto_right()$/;"	f
+hash	dictionary.h	/^    unsigned     *  hash ;  \/** List of hash values for keys *\/$/;"	m	struct:_dictionary_
+header_length	modbus-private.h	/^    unsigned int header_length;$/;"	m	struct:_modbus_backend
+imme_acceleration_time	alpha_motion_control.c	/^uint16_t imme_acceleration_time[2]; \/\/ 运行时的加速时间$/;"	v
+imme_deceleration_time	alpha_motion_control.c	/^uint16_t imme_deceleration_time[2]; \/\/ 运行时的减速时间$/;"	v
+immediate_value_operation_run	alpha_motion_control.c	/^int immediate_value_operation_run()$/;"	f
+iniparser_dump	iniparser.c	/^void iniparser_dump(const dictionary * d, FILE * f)$/;"	f
+iniparser_dump_ini	iniparser.c	/^void iniparser_dump_ini(const dictionary * d, FILE * f)$/;"	f
+iniparser_dumpsection_ini	iniparser.c	/^void iniparser_dumpsection_ini(const dictionary * d, const char * s, FILE * f)$/;"	f
+iniparser_error_callback	iniparser.c	/^static int (*iniparser_error_callback)(const char*, ...) = default_error_callback;$/;"	v	file:
+iniparser_find_entry	iniparser.c	/^int iniparser_find_entry(const dictionary * ini, const char * entry)$/;"	f
+iniparser_freedict	iniparser.c	/^void iniparser_freedict(dictionary * d)$/;"	f
+iniparser_getboolean	iniparser.c	/^int iniparser_getboolean(const dictionary * d, const char * key, int notfound)$/;"	f
+iniparser_getdouble	iniparser.c	/^double iniparser_getdouble(const dictionary * d, const char * key, double notfound)$/;"	f
+iniparser_getint	iniparser.c	/^int iniparser_getint(const dictionary * d, const char * key, int notfound)$/;"	f
+iniparser_getlongint	iniparser.c	/^long int iniparser_getlongint(const dictionary * d, const char * key, long int notfound)$/;"	f
+iniparser_getnsec	iniparser.c	/^int iniparser_getnsec(const dictionary * d)$/;"	f
+iniparser_getseckeys	iniparser.c	/^const char ** iniparser_getseckeys(const dictionary * d, const char * s, const char ** keys)$/;"	f
+iniparser_getsecname	iniparser.c	/^const char * iniparser_getsecname(const dictionary * d, int n)$/;"	f
+iniparser_getsecnkeys	iniparser.c	/^int iniparser_getsecnkeys(const dictionary * d, const char * s)$/;"	f
+iniparser_getstring	iniparser.c	/^const char * iniparser_getstring(const dictionary * d, const char * key, const char * def)$/;"	f
+iniparser_line	iniparser.c	/^static line_status iniparser_line($/;"	f	file:
+iniparser_load	iniparser.c	/^dictionary * iniparser_load(const char * ininame)$/;"	f
+iniparser_set	iniparser.c	/^int iniparser_set(dictionary * ini, const char * entry, const char * val)$/;"	f
+iniparser_set_error_callback	iniparser.c	/^void iniparser_set_error_callback(int (*errback)(const char *, ...))$/;"	f
+iniparser_unset	iniparser.c	/^void iniparser_unset(dictionary * ini, const char * entry)$/;"	f
+init_buffers_for_modbus	alpha_setting.c	/^int init_buffers_for_modbus()$/;"	f
+init_ok	elog_async.c	/^static bool init_ok = false;$/;"	v	file:
+init_parameters	alpha_setting.c	/^void init_parameters()$/;"	f
+init_sock	motor-term/motor_term.c	/^static void  init_sock()$/;"	f	file:
+io_signals_mapping	alpha_setting.c	/^void io_signals_mapping()$/;"	f
+is_INP	alpha_motion_control.c	/^int is_INP()$/;"	f
+is_enabled	elog_async.c	/^static bool is_enabled = false;$/;"	v	file:
+is_enabled	elog_buf.c	/^static bool is_enabled = false;$/;"	v	file:
+is_encoder_enable	am335x_setting.c	/^int is_encoder_enable()$/;"	f
+is_ready	alpha_motion_control.c	/^int is_ready()$/;"	f
+key	dictionary.h	/^    char        **  key ;   \/** List of string keys *\/$/;"	m	struct:_dictionary_
+keyword	elog.h	/^    char keyword[ELOG_FILTER_KW_MAX_LEN + 1];$/;"	m	struct:__anon2
+level	elog.h	/^    uint8_t level;$/;"	m	struct:__anon2
+level_output_info	elog.c	/^static const char *level_output_info[] = {$/;"	v	file:
+libmodbus_version_major	modbus.c	/^const unsigned int libmodbus_version_major = LIBMODBUS_VERSION_MAJOR;$/;"	v
+libmodbus_version_micro	modbus.c	/^const unsigned int libmodbus_version_micro = LIBMODBUS_VERSION_MICRO;$/;"	v
+libmodbus_version_minor	modbus.c	/^const unsigned int libmodbus_version_minor = LIBMODBUS_VERSION_MINOR;$/;"	v
+line_status	iniparser.c	/^} line_status ;$/;"	t	typeref:enum:_line_status_	file:
+listening_socket	cmdparser.c	/^int listening_socket(int _server_port, int _queue_size)$/;"	f
+listening_uart	am335x_setting.c	/^int listening_uart(const char* device, int baud, char parity, int data_bit, int stop_bit)$/;"	f
+log_a	elog.h	205;"	d
+log_a	elog.h	207;"	d
+log_buf	elog.c	/^static char log_buf[ELOG_LINE_BUF_SIZE] = { 0 };$/;"	v	file:
+log_buf	elog_async.c	/^static char log_buf[ELOG_ASYNC_OUTPUT_BUF_SIZE] = { 0 };$/;"	v	file:
+log_buf	elog_buf.c	/^static char log_buf[ELOG_BUF_OUTPUT_BUF_SIZE] = { 0 };$/;"	v	file:
+log_d	elog.h	225;"	d
+log_d	elog.h	227;"	d
+log_e	elog.h	210;"	d
+log_e	elog.h	212;"	d
+log_i	elog.h	220;"	d
+log_i	elog.h	222;"	d
+log_v	elog.h	230;"	d
+log_v	elog.h	232;"	d
+log_w	elog.h	215;"	d
+log_w	elog.h	217;"	d
+logfile	elog_port.c	/^static FILE* logfile=NULL;$/;"	v	file:
+m_socket_read	cmdparser.c	/^int m_socket_read(void *buf, size_t count)$/;"	f
+m_socket_write	cmdparser.c	/^int m_socket_write(const void *buf, size_t count)$/;"	f
+main	main.c	/^int main(int argc, char** argv)$/;"	f
+main	motor-term/motor_term.c	/^int main()$/;"	f
+max_adu_length	modbus-private.h	/^    unsigned int max_adu_length;$/;"	m	struct:_modbus_backend
+message_send	cmdparser.c	/^int message_send(const char* msg)$/;"	f
+minus_position	alpha_setting.c	/^static const int32_t minus_position = (-M_PULSE_PER_CIRCLE) * TRANSMISSION_RATIO;$/;"	v	file:
+modbus_backend_t	modbus-private.h	/^} modbus_backend_t;$/;"	t	typeref:struct:_modbus_backend
+modbus_bakend_type_t	modbus-private.h	/^} modbus_bakend_type_t;$/;"	t	typeref:enum:__anon14
+modbus_close	modbus.c	/^void modbus_close(modbus_t *ctx)$/;"	f
+modbus_connect	modbus.c	/^int modbus_connect(modbus_t *ctx)$/;"	f
+modbus_error_recovery_mode	modbus.h	/^} modbus_error_recovery_mode;$/;"	t	typeref:enum:__anon13
+modbus_flush	modbus.c	/^int modbus_flush(modbus_t *ctx)$/;"	f
+modbus_free	modbus.c	/^void modbus_free(modbus_t *ctx)$/;"	f
+modbus_get_byte_from_bits	modbus-data.c	/^uint8_t modbus_get_byte_from_bits(const uint8_t *src, int index,$/;"	f
+modbus_get_byte_timeout	modbus.c	/^void modbus_get_byte_timeout(modbus_t *ctx, struct timeval *timeout)$/;"	f
+modbus_get_float	modbus-data.c	/^float modbus_get_float(const uint16_t *src)$/;"	f
+modbus_get_header_length	modbus.c	/^int modbus_get_header_length(modbus_t *ctx)$/;"	f
+modbus_get_response_timeout	modbus.c	/^void modbus_get_response_timeout(modbus_t *ctx, struct timeval *timeout)$/;"	f
+modbus_get_socket	modbus.c	/^int modbus_get_socket(modbus_t *ctx)$/;"	f
+modbus_mapping_free	modbus.c	/^void modbus_mapping_free(modbus_mapping_t *mb_mapping)$/;"	f
+modbus_mapping_new	modbus.c	/^modbus_mapping_t* modbus_mapping_new(int nb_bits, int nb_input_bits,$/;"	f
+modbus_mapping_t	modbus.h	/^} modbus_mapping_t;$/;"	t	typeref:struct:__anon12
+modbus_new_rtu	modbus-rtu.c	/^modbus_t* modbus_new_rtu(const char *device,$/;"	f
+modbus_read_bits	modbus.c	/^int modbus_read_bits(modbus_t *ctx, int addr, int nb, uint8_t *dest)$/;"	f
+modbus_read_input_bits	modbus.c	/^int modbus_read_input_bits(modbus_t *ctx, int addr, int nb, uint8_t *dest)$/;"	f
+modbus_read_input_registers	modbus.c	/^int modbus_read_input_registers(modbus_t *ctx, int addr, int nb,$/;"	f
+modbus_read_registers	modbus.c	/^int modbus_read_registers(modbus_t *ctx, int addr, int nb, uint16_t *dest)$/;"	f
+modbus_receive	modbus.c	/^int modbus_receive(modbus_t *ctx, uint8_t *req)$/;"	f
+modbus_receive_confirmation	modbus.c	/^int modbus_receive_confirmation(modbus_t *ctx, uint8_t *rsp)$/;"	f
+modbus_reply	modbus.c	/^int modbus_reply(modbus_t *ctx, const uint8_t *req,$/;"	f
+modbus_reply_exception	modbus.c	/^int modbus_reply_exception(modbus_t *ctx, const uint8_t *req,$/;"	f
+modbus_report_slave_id	modbus.c	/^int modbus_report_slave_id(modbus_t *ctx, uint8_t *dest)$/;"	f
+modbus_rtu_get_serial_mode	modbus-rtu.c	/^int modbus_rtu_get_serial_mode(modbus_t *ctx) {$/;"	f
+modbus_rtu_set_serial_mode	modbus-rtu.c	/^int modbus_rtu_set_serial_mode(modbus_t *ctx, int mode)$/;"	f
+modbus_rtu_t	modbus-rtu-private.h	/^} modbus_rtu_t;$/;"	t	typeref:struct:_modbus_rtu
+modbus_send_raw_request	modbus.c	/^int modbus_send_raw_request(modbus_t *ctx, uint8_t *raw_req, int raw_req_length)$/;"	f
+modbus_set_bits_from_byte	modbus-data.c	/^void modbus_set_bits_from_byte(uint8_t *dest, int index, const uint8_t value)$/;"	f
+modbus_set_bits_from_bytes	modbus-data.c	/^void modbus_set_bits_from_bytes(uint8_t *dest, int index, unsigned int nb_bits,$/;"	f
+modbus_set_byte_timeout	modbus.c	/^void modbus_set_byte_timeout(modbus_t *ctx, const struct timeval *timeout)$/;"	f
+modbus_set_debug	modbus.c	/^void modbus_set_debug(modbus_t *ctx, int boolean)$/;"	f
+modbus_set_error_recovery	modbus.c	/^int modbus_set_error_recovery(modbus_t *ctx,$/;"	f
+modbus_set_float	modbus-data.c	/^void modbus_set_float(float f, uint16_t *dest)$/;"	f
+modbus_set_response_timeout	modbus.c	/^void modbus_set_response_timeout(modbus_t *ctx, const struct timeval *timeout)$/;"	f
+modbus_set_slave	modbus.c	/^int modbus_set_slave(modbus_t *ctx, int slave)$/;"	f
+modbus_set_socket	modbus.c	/^void modbus_set_socket(modbus_t *ctx, int socket)$/;"	f
+modbus_strerror	modbus.c	/^const char *modbus_strerror(int errnum) {$/;"	f
+modbus_t	modbus.h	/^typedef struct _modbus modbus_t;$/;"	t	typeref:struct:_modbus
+modbus_write_and_read_registers	modbus.c	/^int modbus_write_and_read_registers(modbus_t *ctx,$/;"	f
+modbus_write_bit	modbus.c	/^int modbus_write_bit(modbus_t *ctx, int addr, int status)$/;"	f
+modbus_write_bits	modbus.c	/^int modbus_write_bits(modbus_t *ctx, int addr, int nb, const uint8_t *src)$/;"	f
+modbus_write_register	modbus.c	/^int modbus_write_register(modbus_t *ctx, int addr, int value)$/;"	f
+modbus_write_registers	modbus.c	/^int modbus_write_registers(modbus_t *ctx, int addr, int nb, const uint16_t *src)$/;"	f
+motor_movement	alpha_motion_control.c	/^volatile MovementStatus motor_movement = NOTMOVE;$/;"	v
+motor_zero_speed	global_setting.c	/^volatile int motor_zero_speed=1;$/;"	v
+msg_type_t	modbus.c	/^} msg_type_t;$/;"	t	typeref:enum:__anon10	file:
+mutex_cmd	cmdparser.c	/^pthread_mutex_t mutex_cmd = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+mutex_encoder	am335x_setting.c	/^pthread_mutex_t mutex_encoder = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+mutex_motion_ctrl	alpha_motion_control.c	/^pthread_mutex_t mutex_motion_ctrl = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+myaddr	motor-term/motor_term.c	/^struct sockaddr_in myaddr;   $/;"	v	typeref:struct:sockaddr_in
+n	dictionary.h	/^    int             n ;     \/** Number of entries in dictionary *\/$/;"	m	struct:_dictionary_
+n_bytes	modbus-rtu-private.h	/^	DWORD n_bytes;$/;"	m	struct:win32_ser
+name_arr	am335x_setting.c	/^int name_arr[] = {115200, 57600, 38400,  19200,  9600,  4800,  2400, 1200};$/;"	v
+nb_bits	modbus.h	/^    int nb_bits;$/;"	m	struct:__anon12
+nb_input_bits	modbus.h	/^    int nb_input_bits;$/;"	m	struct:__anon12
+nb_input_registers	modbus.h	/^    int nb_input_registers;$/;"	m	struct:__anon12
+nb_registers	modbus.h	/^    int nb_registers;$/;"	m	struct:__anon12
+nprintline	motor-term/motor_term.c	/^int nprintline=0;$/;"	v
+old_dcb	modbus-rtu-private.h	/^    DCB old_dcb;$/;"	m	struct:_modbus_rtu
+old_tios	modbus-rtu-private.h	/^    struct termios old_tios;$/;"	m	struct:_modbus_rtu	typeref:struct:_modbus_rtu::termios
+open_modbus_rtu_master	alpha_setting.c	/^int open_modbus_rtu_master(const char *device, int baud, char parity, int data_bit, int stop_bit, int slave)$/;"	f
+output_enabled	elog.h	/^    bool output_enabled;$/;"	m	struct:__anon3
+output_is_locked_before_disable	elog.h	/^    bool output_is_locked_before_disable;$/;"	m	struct:__anon3
+output_is_locked_before_enable	elog.h	/^    bool output_is_locked_before_enable;$/;"	m	struct:__anon3
+output_lock	elog_port.c	/^static pthread_mutex_t output_lock;$/;"	v	file:
+output_lock_enabled	elog.h	/^    bool output_lock_enabled;$/;"	m	struct:__anon3
+output_notice	elog_async.c	/^static sem_t output_notice;$/;"	v	file:
+param	global_setting.h	/^}param;$/;"	t	typeref:struct:__anon6
+parameter_register_setting	alpha_setting.c	/^void parameter_register_setting()$/;"	f
+parity	alpha_setting.h	/^        char parity;$/;"	m	struct:rtu_master_t
+parity	am335x_setting.h	/^    char parity;$/;"	m	struct:uart_t
+parity	modbus-rtu-private.h	/^    char parity;$/;"	m	struct:_modbus_rtu
+parse_ini_file	main.c	/^int parse_ini_file(char * ini_name)$/;"	f
+parsesocket	cmdparser.c	/^void parsesocket(void)$/;"	f
+pause_off	alpha_motion_control.c	/^int pause_off()$/;"	f
+pause_on	alpha_motion_control.c	/^int pause_on()$/;"	f
+plus_position	alpha_setting.c	/^static const int32_t plus_position = M_PULSE_PER_CIRCLE * TRANSMISSION_RATIO;$/;"	v	file:
+position_reset	high_level_control.c	/^int position_reset()$/;"	f
+positioning_cancel_off	alpha_motion_control.c	/^int positioning_cancel_off()$/;"	f
+positioning_cancel_on	alpha_motion_control.c	/^int positioning_cancel_on()$/;"	f
+pre_check_confirmation	modbus-private.h	/^    int (*pre_check_confirmation) (modbus_t *ctx, const uint8_t *req,$/;"	m	struct:_modbus_backend
+prepare_response_tid	modbus-private.h	/^    int (*prepare_response_tid) (const uint8_t *req, int *req_length);$/;"	m	struct:_modbus_backend
+prev_encoder_position	am335x_setting.c	/^volatile int prev_encoder_position;$/;"	v
+queue_size	cmdparser.c	/^int server_port, queue_size;$/;"	v
+queue_size	cmdparser.h	/^        int queue_size;$/;"	m	struct:am335x_socket_t
+read_g_sum_angle	global_setting.c	/^int read_g_sum_angle()$/;"	f
+read_index	elog_async.c	/^static size_t read_index = 0;$/;"	v	file:
+read_io_status	modbus.c	/^static int read_io_status(modbus_t *ctx, int function,$/;"	f	file:
+read_registers	modbus.c	/^static int read_registers(modbus_t *ctx, int function, int addr, int nb,$/;"	f	file:
+receive_msg	modbus.c	/^static int receive_msg(modbus_t *ctx, uint8_t *msg, msg_type_t msg_type)$/;"	f	file:
+receivethread	am335x_setting.c	/^void receivethread(void)$/;"	f
+recv	modbus-private.h	/^    ssize_t (*recv) (modbus_t *ctx, uint8_t *rsp, int rsp_length);$/;"	m	struct:_modbus_backend
+recv_pst_data	am335x_setting.c	/^int recv_pst_data(char *str,int len )$/;"	f
+recvsocket	motor-term/motor_term.c	/^void recvsocket(void)$/;"	f
+reset_parameter	alpha_setting.h	/^        int reset_parameter; \/\/ 使用指定参数重置控制器寄存器$/;"	m	struct:rtu_master_t
+response_exception	modbus.c	/^static int response_exception(modbus_t *ctx, sft_t *sft,$/;"	f	file:
+response_io_status	modbus.c	/^static int response_io_status(int address, int nb,$/;"	f	file:
+response_timeout	modbus-private.h	/^    struct timeval response_timeout;$/;"	m	struct:_modbus	typeref:struct:_modbus::timeval
+rtu_master_t	alpha_setting.h	/^struct rtu_master_t{$/;"	s
+rtu_master_t	alpha_setting.h	/^typedef struct rtu_master_t rtu_master_t;$/;"	t	typeref:struct:rtu_master_t
+run_cmd	cmdparser.c	/^static void run_cmd(param *temp_x,  CtrlStatus  curstatus )$/;"	f	file:
+run_inc_angle	alpha_motion_control.c	/^int run_inc_angle(double angle)$/;"	f
+run_to_angle	alpha_motion_control.c	/^int run_to_angle(double angle)$/;"	f
+s	modbus-private.h	/^    int s;$/;"	m	struct:_modbus
+select	modbus-private.h	/^    int (*select) (modbus_t *ctx, fd_set *rfds, struct timeval *tv, int msg_length);$/;"	m	struct:_modbus_backend
+send	modbus-private.h	/^    ssize_t (*send) (modbus_t *ctx, const uint8_t *req, int req_length);$/;"	m	struct:_modbus_backend
+send_check_acce_time	alpha_motion_control.c	/^int send_check_acce_time()$/;"	f
+send_check_dece_time	alpha_motion_control.c	/^int send_check_dece_time()$/;"	f
+send_check_speed	alpha_motion_control.c	/^int send_check_speed()$/;"	f
+send_cruise_speed	alpha_motion_control.c	/^int send_cruise_speed()$/;"	f
+send_error_msg	high_level_control.c	/^int send_error_msg()$/;"	f
+send_imme_acceleration_time	alpha_motion_control.c	/^int send_imme_acceleration_time()$/;"	f
+send_imme_deceleration_time	alpha_motion_control.c	/^int send_imme_deceleration_time()$/;"	f
+send_msg	modbus.c	/^static int send_msg(modbus_t *ctx, uint8_t *msg, int msg_length)$/;"	f	file:
+send_msg_pre	modbus-private.h	/^    int (*send_msg_pre) (uint8_t *req, int req_length);$/;"	m	struct:_modbus_backend
+sendbuf	motor-term/motor_term.c	/^int sendbuf( char* buf, size_t len )$/;"	f
+serial_mode	modbus-rtu-private.h	/^    int serial_mode;$/;"	m	struct:_modbus_rtu
+serve_off	alpha_motion_control.c	/^int serve_off()$/;"	f
+serve_on	alpha_motion_control.c	/^int serve_on()$/;"	f
+server_port	cmdparser.c	/^int server_port, queue_size;$/;"	v
+server_port	cmdparser.h	/^        int server_port;$/;"	m	struct:am335x_socket_t
+serveraddr	motor-term/motor_term.c	/^struct sockaddr_in serveraddr;    $/;"	v	typeref:struct:sockaddr_in
+set_Parity	am335x_setting.c	/^int set_Parity(int fd,int databits,int stopbits,int parity)$/;"	f
+set_abs_control_mode	alpha_motion_control.c	/^int set_abs_control_mode()$/;"	f
+set_acce_value	high_level_control.c	/^int set_acce_value(double acce_time)$/;"	f
+set_anticlockwise	global_setting.c	/^void set_anticlockwise(int mode)$/;"	f
+set_check_acce_time	alpha_motion_control.c	/^int set_check_acce_time(uint32_t time)$/;"	f
+set_check_dece_time	alpha_motion_control.c	/^int set_check_dece_time(uint32_t time)$/;"	f
+set_check_speed	alpha_motion_control.c	/^int set_check_speed(uint32_t speed)$/;"	f
+set_cont_status	alpha_motion_control.c	/^int set_cont_status(int cont_addr, int status)$/;"	f
+set_cruise_speed	alpha_motion_control.c	/^int set_cruise_speed(uint32_t speed)$/;"	f
+set_dece_value	high_level_control.c	/^int set_dece_value(double dece_time)$/;"	f
+set_g_left_angle	global_setting.c	/^void set_g_left_angle(double angle)$/;"	f
+set_g_right_angle	global_setting.c	/^void set_g_right_angle(double angle)$/;"	f
+set_g_start_angle	global_setting.c	/^void set_g_start_angle(double angle)$/;"	f
+set_imme_acceleration_time	alpha_motion_control.c	/^int set_imme_acceleration_time(uint32_t time)$/;"	f
+set_imme_deceleration_time	alpha_motion_control.c	/^int set_imme_deceleration_time(uint32_t time)$/;"	f
+set_inc_control_mode	alpha_motion_control.c	/^int set_inc_control_mode()$/;"	f
+set_motor_movement_notmove	alpha_motion_control.c	/^void set_motor_movement_notmove()$/;"	f
+set_motor_zero_speed	global_setting.c	/^void set_motor_zero_speed()$/;"	f
+set_slave	modbus-private.h	/^    int (*set_slave) (modbus_t *ctx, int slave);$/;"	m	struct:_modbus_backend
+set_speed	am335x_setting.c	/^void set_speed(int fd, int speed)$/;"	f
+set_speed_value	high_level_control.c	/^int set_speed_value(double speed)$/;"	f
+set_stop	global_setting.c	/^void set_stop(int mode)$/;"	f
+sft_t	modbus-private.h	/^} sft_t;$/;"	t	typeref:struct:_sft
+size	dictionary.h	/^    ssize_t         size ;  \/** Storage size *\/$/;"	m	struct:_dictionary_
+slave	alpha_setting.h	/^        int slave;$/;"	m	struct:rtu_master_t
+slave	modbus-private.h	/^    int slave;$/;"	m	struct:_modbus
+slave	modbus-private.h	/^    int slave;$/;"	m	struct:_sft
+sock	cmdparser.c	/^static int sock = -1;$/;"	v	file:
+sock	motor-term/motor_term.c	/^static int sock = -1;$/;"	v	file:
+speed_arr	am335x_setting.c	/^int speed_arr[] = {B115200, B57600, B38400, B19200, B9600, B4800, B2400, B1200};$/;"	v
+ssize_t	modbus-private.h	/^typedef int ssize_t;$/;"	t
+stop_bit	alpha_setting.h	/^        int stop_bit;$/;"	m	struct:rtu_master_t
+stop_bit	am335x_setting.h	/^    int stop_bit;$/;"	m	struct:uart_t
+stop_bit	modbus-rtu-private.h	/^    uint8_t stop_bit;$/;"	m	struct:_modbus_rtu
+strlcpy	modbus.c	/^size_t strlcpy(char *dest, const char *src, size_t dest_size)$/;"	f
+strlwc	iniparser.c	/^static const char * strlwc(const char * in, char *out, unsigned len)$/;"	f	file:
+strstrip	iniparser.c	/^static unsigned strstrip(char * s)$/;"	f	file:
+t_id	modbus-private.h	/^    int t_id;$/;"	m	struct:_sft
+tab_bits	modbus.h	/^    uint8_t *tab_bits;$/;"	m	struct:__anon12
+tab_input_bits	modbus.h	/^    uint8_t *tab_input_bits;$/;"	m	struct:__anon12
+tab_input_registers	modbus.h	/^    uint16_t *tab_input_registers;$/;"	m	struct:__anon12
+tab_registers	modbus.h	/^    uint16_t *tab_registers;$/;"	m	struct:__anon12
+tab_rp_bits	alpha_setting.c	/^uint8_t	 *tab_rp_bits = NULL;$/;"	v
+tab_rp_registers	alpha_setting.c	/^uint16_t *tab_rp_registers = NULL; $/;"	v
+tab_rq_bits	alpha_setting.c	/^uint8_t  *tab_rq_bits = NULL;$/;"	v
+tab_rq_registers	alpha_setting.c	/^uint16_t *tab_rq_registers = NULL;$/;"	v
+table_crc_hi	modbus-rtu.c	/^static const uint8_t table_crc_hi[] = {$/;"	v	file:
+table_crc_lo	modbus-rtu.c	/^static const uint8_t table_crc_lo[] = {$/;"	v	file:
+tag	elog.h	/^    char tag[ELOG_FILTER_TAG_MAX_LEN + 1];$/;"	m	struct:__anon2
+task_cancel	high_level_control.c	/^int task_cancel()$/;"	f
+text_color_enabled	elog.h	/^    bool text_color_enabled;$/;"	m	struct:__anon3
+uart_t	am335x_setting.h	/^struct uart_t {$/;"	s
+uart_t	am335x_setting.h	/^typedef struct uart_t uart_t;$/;"	t	typeref:struct:uart_t
+update_destination_angle	global_setting.c	/^void update_destination_angle(double angle)$/;"	f
+update_encoder_position	am335x_setting.c	/^void update_encoder_position(int position)$/;"	f
+update_encoder_speed	am335x_setting.c	/^void update_encoder_speed(double speed)$/;"	f
+update_g_ctrl_status	global_setting.c	/^void update_g_ctrl_status(CtrlStatus status)$/;"	f
+update_g_sum_angle	global_setting.c	/^void update_g_sum_angle(double angle)$/;"	f
+update_g_x	global_setting.c	/^void update_g_x(param x)$/;"	f
+update_motor_movement	alpha_motion_control.c	/^void update_motor_movement(double angle)$/;"	f
+v	global_setting.h	/^    double v[2];$/;"	m	struct:__anon6
+val	dictionary.h	/^    char        **  val ;   \/** List of string values *\/$/;"	m	struct:_dictionary_
+w_ser	modbus-rtu-private.h	/^    struct win32_ser w_ser;$/;"	m	struct:_modbus_rtu	typeref:struct:_modbus_rtu::win32_ser
+win32_ser	modbus-rtu-private.h	/^struct win32_ser {$/;"	s
+win32_ser_init	modbus-rtu.c	/^static void win32_ser_init(struct win32_ser *ws) {$/;"	f	file:
+win32_ser_read	modbus-rtu.c	/^static int win32_ser_read(struct win32_ser *ws, uint8_t *p_msg,$/;"	f	file:
+win32_ser_select	modbus-rtu.c	/^static int win32_ser_select(struct win32_ser *ws, int max_len,$/;"	f	file:
+write_g_sum_angle	global_setting.c	/^int write_g_sum_angle()$/;"	f
+write_index	elog_async.c	/^static size_t write_index = 0;$/;"	v	file:
+write_register	alpha_setting.c	/^void write_register(int addr, uint16_t val0, uint16_t val1)$/;"	f
+write_single	modbus.c	/^static int write_single(modbus_t *ctx, int function, int addr, int value)$/;"	f	file:
+xstrdup	dictionary.c	/^static char * xstrdup(const char * s)$/;"	f	file:
+xstrdup	iniparser.c	/^static char * xstrdup(const char * s)$/;"	f	file:

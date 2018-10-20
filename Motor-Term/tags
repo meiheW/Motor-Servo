@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BUFFSIZE	motor_term.c	36;"	d	file:
+CC	Makefile	/^CC = gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -Wall$/;"	m
+INCFLAGS	Makefile	/^INCFLAGS = $/;"	m
+LDFLAGS	Makefile	/^LDFLAGS = -Wl,-rpath,\/usr\/local\/lib$/;"	m
+LIBS	Makefile	/^LIBS = -lpthread$/;"	m
+MY_PORT	motor_term.c	37;"	d	file:
+OBJECTS	Makefile	/^OBJECTS = motor_term.o$/;"	m
+SERVER_IP	motor_term.c	/^const char * SERVER_IP = "192.168.0.15";$/;"	v
+SERVER_PORT	motor_term.c	38;"	d	file:
+finish	motor_term.c	/^volatile int finish = 1;$/;"	v
+fsh_angle	motor_term.c	/^volatile float fsh_angle = 0;$/;"	v
+get_command	motor_term.c	/^static int get_command()$/;"	f	file:
+init_sock	motor_term.c	/^static void  init_sock()$/;"	f	file:
+main	motor_term.c	/^int main()$/;"	f
+myaddr	motor_term.c	/^struct sockaddr_in myaddr;   $/;"	v	typeref:struct:sockaddr_in
+nprintline	motor_term.c	/^int nprintline=0;$/;"	v
+recvsocket	motor_term.c	/^void recvsocket(void)$/;"	f
+sendbuf	motor_term.c	/^int sendbuf( char* buf, size_t len )$/;"	f
+serveraddr	motor_term.c	/^struct sockaddr_in serveraddr;    $/;"	v	typeref:struct:sockaddr_in
+sock	motor_term.c	/^static int sock = -1;$/;"	v	file:

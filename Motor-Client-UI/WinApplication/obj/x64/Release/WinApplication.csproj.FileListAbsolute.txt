@@ -1,0 +1,16 @@
+C:\Users\63229\Desktop\Motor-Client-UI\WinApplication\bin\x64\Release\WinApplication.exe
+C:\Users\63229\Desktop\Motor-Client-UI\WinApplication\bin\x64\Release\WinApplication.pdb
+C:\Users\63229\Desktop\Motor-Client-UI\WinApplication\obj\x64\Release\WinApplication.Form1.resources
+C:\Users\63229\Desktop\Motor-Client-UI\WinApplication\obj\x64\Release\WinApplication.Properties.Resources.resources
+C:\Users\63229\Desktop\Motor-Client-UI\WinApplication\obj\x64\Release\WinApplication.csproj.GenerateResource.Cache
+C:\Users\63229\Desktop\Motor-Client-UI\WinApplication\obj\x64\Release\WinApplication.exe
+C:\Users\63229\Desktop\Motor-Client-UI\WinApplication\obj\x64\Release\WinApplication.pdb
+C:\Users\63229\Desktop\Motor-Client-UI\WinApplication\obj\x64\Release\WinApplication.csprojResolveAssemblyReference.cache
+E:\BaiduNetdiskDownload\Alpha-Motor\Motor-Client-UI\WinApplication\obj\x64\Release\WinApplication.exe
+E:\BaiduNetdiskDownload\Alpha-Motor\Motor-Client-UI\WinApplication\obj\x64\Release\WinApplication.pdb
+E:\BaiduNetdiskDownload\Alpha-Motor\Motor-Client-UI\WinApplication\bin\x64\Release\WinApplication.exe
+E:\BaiduNetdiskDownload\Alpha-Motor\Motor-Client-UI\WinApplication\bin\x64\Release\WinApplication.pdb
+E:\BaiduNetdiskDownload\Alpha-Motor\Motor-Client-UI\WinApplication\obj\x64\Release\WinApplication.csprojResolveAssemblyReference.cache
+E:\BaiduNetdiskDownload\Alpha-Motor\Motor-Client-UI\WinApplication\obj\x64\Release\WinApplication.Form1.resources
+E:\BaiduNetdiskDownload\Alpha-Motor\Motor-Client-UI\WinApplication\obj\x64\Release\WinApplication.Properties.Resources.resources
+E:\BaiduNetdiskDownload\Alpha-Motor\Motor-Client-UI\WinApplication\obj\x64\Release\WinApplication.csproj.GenerateResource.Cache

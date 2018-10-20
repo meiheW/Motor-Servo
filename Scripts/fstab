@@ -1,0 +1,3 @@
+# auto mount command added to /etc/fstab
+/dev/mmcblk0p1       /media/card          auto       defaults,sync  0  0
+
